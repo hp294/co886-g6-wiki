@@ -10,4 +10,4 @@ Prior Day_Individual research over the weekend,
 On Day_Setup+Brainstorm+Planning, 
 Impediments to progress_amount of codes to read, understanding how the program works as a whole. 
 
-2. Plans
+**2. Plans**
