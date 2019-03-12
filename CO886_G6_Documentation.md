@@ -16,13 +16,26 @@
 
 4. [Development Process and Plans](./CO886_G6_Documentation/Development-Process-and-Plans)  
    * [Development Process](./CO886_G6_Documentation/Development-Process-and-Plans)
+      * [Allocation of tasks]
+      * [Minutes]
+      * [Artefacts]
+      * [Logs]
    * [Plans](./CO886_G6_Documentation/Development-Process-and-Plans)
-
-5. [Tools](./CO886_G6_Documentation/Tools) 
    * [Unit Testing](./CO886_G6_Documentation/Tools) 
    * [Version Control](./CO886_G6_Documentation/Tools) 
    * [Functional Testing](./CO886_G6_Documentation/Tools) 
    * [Issue Tracking](./CO886_G6_Documentation/Tools) 
    * [Code Inspection](./CO886_G6_Documentation/Tools) 
 
-6. [Quality Assurance](./CO886_G6_Documentation/Quality-Assurance)  
+
+5. [Tools](./CO886_G6_Documentation/Tools)
+   * [Git]
+   * [Eclipse] (debug and test)
+   * for drawing UML diagram
+   * colour blind simulations
+   
+6. [Quality Assurance](./CO886_G6_Documentation/Quality-Assurance)
+   * [Test Planning]
+   * [Acceptance Criteria] 
+   * [Definition]
+   * [Evaluation] 
