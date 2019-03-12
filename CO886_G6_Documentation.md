@@ -26,7 +26,9 @@
    * [Functional Testing](./CO886_G6_Documentation/Tools) 
    * [Issue Tracking](./CO886_G6_Documentation/Tools) 
    * [Code Inspection](./CO886_G6_Documentation/Tools) 
-
+   * https://docs.gitlab.com/ee/user/project/milestones/burndown_charts.html
+   * https://docs.gitlab.com/ee/README.html#plan
+   * https://docs.gitlab.com/ee/university/training/gitlab_flow.html
 
 5. [Tools](./CO886_G6_Documentation/Tools)
    * [Git]
@@ -36,6 +38,8 @@
    
 6. [Quality Assurance](./CO886_G6_Documentation/Quality-Assurance)
    * [Test Planning]
+     * https://docs.gitlab.com/ee/ci/examples/code_quality.html
+     * https://docs.gitlab.com/ee/ci/examples/end_to_end_testing_webdriverio/index.html
    * [Acceptance Criteria] 
    * [Definition]
    * [Evaluation] 
