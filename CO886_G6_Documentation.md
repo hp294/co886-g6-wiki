@@ -1,6 +1,6 @@
-1. Background Research
-2. User stories
-3. Design, implementation and evaluation of features
-4. Development process and plans
-5. Tools
-6. Quality Assurance
+1. [Background Research](./Background-Research)
+2. [User Stories](./User-Stories)
+3. [Design, Implementation and Evaluation of Features](./Design,-Implementation-and-Evaluation-of-Features)
+4. [Development Process and Plans](./Development-Process-and-Plans)
+5. [Tools](./Tools)
+6. [Quality Assurance](./Quality-Assurance)
