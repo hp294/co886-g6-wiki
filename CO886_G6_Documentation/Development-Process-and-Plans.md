@@ -1,6 +1,6 @@
 **1. Development Process**  
 *Methodology*: [Scrum Agile](./Development-Process-and-Plans/Scrum-Agile)  
-*Product Backlog*: [10 user stories](./CO886_G6_Documentation/User-Stories)  
+*Product Backlog*: [10 user stories](./User-Stories)  
 *Sprint time*: 5 days  
 *Sprint Planning*: Team commits to 5 user stories  
 *Sprint Backlog*: 5 (3.1,4.1,5.1,6.1, 9.1). Researching Idea, Coding, Unit Testing, Integrating  
