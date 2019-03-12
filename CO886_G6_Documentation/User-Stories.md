@@ -1,3 +1,9 @@
+**ACCEPTANCE CRITERIA**
+
+**USE CASE DIAGRAM**
+
+**ACTIVITY DIAGRAM**
+
 **PRODUCT BACKLOG**
 
 *Estimate*: 1-easy, 5-difficult  
