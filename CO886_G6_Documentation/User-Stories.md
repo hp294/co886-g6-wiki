@@ -7,7 +7,7 @@
 | ------ | ------ | ------ | ------ |
 | 1 | Story: I want the device to read out words from the screen to me. <br>Details: Exploit Window Narrator by incorporating compatibility in the software. <br>Tests: Provide a number of scenarios for a user to use the screen reader on different parts of the window (menu, icon navigator, content,...). | 4 | 4 |
 | 2 | Story: I want efficient keyboard shortcuts that will replace using mouse. <br>Details: Provide keyboard shortcuts for all menu and icon functions. <br>Tests: Provide a number of scenarios for a user to use a combination of shortcuts. | 2 | 5 |
-| 3 | Story: I want to be able to read and see text clearer. <br>Details: Change font type and increase font size above existing 24 max value, both in the menu and working windows. <br>Tests: Test a range of font sizes (highest, lowest and middle)| 1 | 1 |
+| 3 | Story: I want to be able to read and see text clearer. <br>Details: Change font type and increase font size above existing max value. <br>Tests: Test a range of font sizes & type | 1 | 1 |
 | 4 | Story: I want to be able to locate cursor easily. <br>Details: Increase cursor size/colour/reflection. <br>Tests: Find the cursor in a big text document.| 1 | 1 |
 | 5 | Story: Story: I want to enhance/exclude certain colour. <br>Details: [further research]. <br>Tests: [further research]| 1 | 3 |
 | 6 | Story: I want the menu to be consistent with MS Window. <br>Details: Change menu text to the standard ‘file’ rather than ‘program’. <br>Tests: Load, Amend and Save a file.| 1 | 3 |
