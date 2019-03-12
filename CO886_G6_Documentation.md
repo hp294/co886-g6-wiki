@@ -1,4 +1,4 @@
-[1. Background Research](./Background-Research)  
+[1. Background Research](./CO886_G6_Documentation/Background-Research)  
 [2. User Stories](./User-Stories)  
 [3. Design, Implementation and Evaluation of Features](./Design,-Implementation-and-Evaluation-of-Features)  
 [4. Development Process and Plans](./Development-Process-and-Plans)  
