@@ -1,4 +1,7 @@
-Product BackLog
+**PRODUCT BACKLOG**
+
+*Estimate*: 1-easy, 5-difficult  
+*Priority*: 1-must, 5-could
 
 | **ID** | **User Stories** | **Estimate** | **Priority** |
 | ------ | ------ | ------ | ------ |
