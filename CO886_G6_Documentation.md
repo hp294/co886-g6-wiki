@@ -2,7 +2,7 @@
 
 2. [User Stories](./CO886_G6_Documentation/User-Stories)  
    * [User Story](./CO886_G6_Documentation/User-Stories) 
-   * [Aceptance Criteria](./CO886_G6_Documentation/User-Stories) 
+   * [Acceptance Criteria](./CO886_G6_Documentation/User-Stories) 
    * [UML Diagram - Use Case](./CO886_G6_Documentation/User-Stories) 
    * [UML Diagram - Activity](./CO886_G6_Documentation/User-Stories) 
 
