@@ -16,19 +16,23 @@
 
 4. [Development Process and Plans](./CO886_G6_Documentation/Development-Process-and-Plans)  
    * [Development Process](./CO886_G6_Documentation/Development-Process-and-Plans)
-      * [Allocation of tasks]
-      * [Minutes]
-      * [Artefacts]
-      * [Logs]
-   * [Plans](./CO886_G6_Documentation/Development-Process-and-Plans)
-   * [Unit Testing](./CO886_G6_Documentation/Tools) 
-   * [Version Control](./CO886_G6_Documentation/Tools) 
-   * [Functional Testing](./CO886_G6_Documentation/Tools) 
-   * [Issue Tracking](./CO886_G6_Documentation/Tools) 
-   * [Code Inspection](./CO886_G6_Documentation/Tools) 
-   * https://docs.gitlab.com/ee/user/project/milestones/burndown_charts.html
-   * https://docs.gitlab.com/ee/README.html#plan
-   * https://docs.gitlab.com/ee/university/training/gitlab_flow.html
+     * [Product Log](https://git.cs.kent.ac.uk/co886/g6/issues) 
+     * [Issue Tracking](https://git.cs.kent.ac.uk/co886/g6/issues)
+     * Issue Triage
+     * [Version control](https://git.cs.kent.ac.uk/co886/g6/network/master)
+     * [Test Planning](https://git.cs.kent.ac.uk/co886/g6/wikis/CO886_G6_Documentation/Quality-Assurance)
+     * Feedback
+     * [Code Inspection](https://git.cs.kent.ac.uk/co886/g6/wikis/CO886_G6_Documentation/Quality-Assurance)
+     * [Allocation of tasks](https://git.cs.kent.ac.uk/co886/g6/graphs/master) 
+     * Daily Scrum Meeting Minute
+     * Artefacts
+
+   * [Plan](./CO886_G6_Documentation/Development-Process-and-Plans)
+     * Methodology: [Scrum Agile](./Development-Process-and-Plans/Scrum-Agile), [User stories](./User-Stories),  & [Sprint Log](https://git.cs.kent.ac.uk/co886/g6/milestones/3)  
+     * Charts: [Sprint Burndown](https://git.cs.kent.ac.uk/co886/g6/milestones/3), [Pipeline](https://git.cs.kent.ac.uk/co886/g6/pipelines/charts) 
+
+   * [Class Diagram](./CO886_G6_Documentation/Development-Process-and-Plans)
+   * [Process Diagram](./CO886_G6_Documentation/Development-Process-and-Plans)
 
 5. [Tools](./CO886_G6_Documentation/Tools)
    * [Git]
