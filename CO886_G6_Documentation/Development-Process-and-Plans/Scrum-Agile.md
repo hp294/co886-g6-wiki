@@ -1,3 +1,6 @@
+![Scrum-Diagram-v2.0-Arrows-Full-Res](uploads/33971cc49c6284093acf950eae9e6e51/Scrum-Diagram-v2.0-Arrows-Full-Res.png)
+
+
 **Scrum Team** (1 tester, 1 UX designer, multiple developers), Scrum Master, Product Owner. Self organised team, responsible for picking tasks tasks in sprint.  
 **Product Owner** represents customer, understands product vision & its business value, produces product backlog, prioritisation, user stories grooming.  
 **Scrum Master** is the scrum coach, and make sure the team can focus on their goal within a sprint.
