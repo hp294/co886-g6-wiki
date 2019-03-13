@@ -6,7 +6,7 @@
 *Daily Scrum Meeting*: 
 Prior Day_Individual research over the weekend, 
 On Day_Setup+Brainstorm+Planning, 
-Impediments to progress_amount of codes to read, understanding how the program works as a whole. 
-
+Impediments to progress_amount of codes to read, understanding how the program works as a whole.    
+[Version control](https://git.cs.kent.ac.uk/co886/g6/network/master )   
 []()
 **2. Plans**
