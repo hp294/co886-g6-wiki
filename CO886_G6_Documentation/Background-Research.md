@@ -26,6 +26,6 @@
 [2] https://chrome.google.com/webstore/detail/high-contrast/djcfdncoelnlbldjfhinnjlhdjlikmph/related?hl=en<br>
 [3] http://www.bbc.co.uk/accessibility/guides/factsheets/factsheet_vision_computing.pdf<br>
 [4] Collins, K. and Taillon, P. (2012). Visualized sound effect icons for improved multimedia accessibility: A pilot study. Entertainment Computing, 3(1), pp.11-17. 
-[5] https://icons8.com/articles/ui-sounds/
+[5] https://icons8.com/articles/ui-sounds/  
 [6] http://www.java2s.com/Code/Java/Swing-JFC/Acustomcaretclass.htm
 
