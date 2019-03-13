@@ -8,6 +8,8 @@
    * Definition
    * Evaluation 
 
+https://git.cs.kent.ac.uk/help/ci/junit_test_reports.md
+https://git.cs.kent.ac.uk/help/user/project/merge_requests/code_quality.md
 https://docs.gitlab.com/ee/ci/examples/code_quality.html   
 https://docs.gitlab.com/ee/ci/examples/end_to_end_testing_webdriverio/index.html   
    
