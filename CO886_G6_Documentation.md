@@ -8,7 +8,7 @@
 
 3. [Design, Implementation and Evaluation of Features](./CO886_G6_Documentation/Design,-Implementation-and-Evaluation-of-Features)  
    * [Issue Triage](./CO886_G6_Documentation/Design,-Implementation-and-Evaluation-of-Features)
-   * [UML Diagram - Activity](./CO886_G6_Documentation/Design,-Implementation-and-Evaluation-of-Features)
+   * [UML Diagram - Class](./CO886_G6_Documentation/Design,-Implementation-and-Evaluation-of-Features)
    * [Unit Testing](./CO886_G6_Documentation/Design,-Implementation-and-Evaluation-of-Features)
    * [Functional Testing](./CO886_G6_Documentation/Design,-Implementation-and-Evaluation-of-Features)
    * [Issue Tracking](./CO886_G6_Documentation/Design,-Implementation-and-Evaluation-of-Features)
