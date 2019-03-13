@@ -40,6 +40,7 @@
    * [Test Planning]
      * https://docs.gitlab.com/ee/ci/examples/code_quality.html
      * https://docs.gitlab.com/ee/ci/examples/end_to_end_testing_webdriverio/index.html
+   * Test: Unit Testing, Validation (V&V), User Testing
    * [Acceptance Criteria] 
    * [Definition]
    * [Evaluation] 
