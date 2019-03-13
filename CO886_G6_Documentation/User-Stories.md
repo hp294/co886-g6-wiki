@@ -1,17 +1,17 @@
 **ACCEPTANCE CRITERIA**
 
-| **User Story ID** | **Acceptance Criteria** | **Pass/Fail** |
-| ------ | ------ | ------ |
-| 1 | Given I am unable to read the text <br>When I enable the screen-reader <br>Then the screen-reader will  narrate what I have highlighted | |
-| 2 | Given I am not able to navigate the application with a mouse <br>When using keyboard shortcuts prescribed in the application manual <br>Then I can access the menu options I require | |
-| 3 | Given I want to read text in the application as a short-sighted user <br>When I use the accessibility extension <br>Then the text is clearly readable in all areas of the application | |
-| 4 | Given I find it difficult to locate the cursor as a short-sighted user <br>When I use the accessibility extension <br>Then I am able to locate the cursor with no difficulties no matter what document is displayed | |
-| 5 | Given I am unable to see certain colours as a colour-blind user <br>When I use the accessibility extension <br>Then I am given the option to remove certain colours from the viewing windows | |
-| 6 | Given I am used to working with the Microsoft Windows operating system <br>When using the HEAT application <br>Then I am easily able to use the functions due to my experience with Windows | |
-| 7 | Given I am a visually impaired user that finds it difficult to read the icon annotations <br>When I hover the cursor over icons in the HEAT app <br>Then I am able to clearly read the annotation and have ample time (10-15 seconds) to read it | |
-| 8 | Given I am using the HEAT application for the first time <br>When attempting to link to a Haskell interpreter <br>Then I am able to navigate the files and connect with the interpreter with no difficulties | |
-| 9 | Given I am working in the HEAT application as a visually-impaired user <br>When I attempt to run a command or compile a program <br>Then I am aware of whether it was successful or encountered an error based on the respective sound effects | |
-| 10 | Given I am severely visually impaired and wish to work with the HEAT application <br>When I use the voice control extension <br>Then I am able to control all aspects of HEAT as intended | |
+| **User Story ID** | **Acceptance Criteria** | **Implemented** | **Pass/Fail** |
+| ------ | ------ | ------ | ------ |
+| 1 | Given I am unable to read the text <br>When I enable the screen-reader <br>Then the screen-reader will  narrate what I have highlighted | N | |
+| 2 | Given I am not able to navigate the application with a mouse <br>When using keyboard shortcuts prescribed in the application manual <br>Then I can access the menu options I require | N | |
+| 3 | Given I want to read text in the application as a short-sighted user <br>When I use the accessibility extension <br>Then the text is clearly readable in all areas of the application | Y | |
+| 4 | Given I find it difficult to locate the cursor as a short-sighted user <br>When I use the accessibility extension <br>Then I am able to locate the cursor with no difficulties no matter what document is displayed | Y | |
+| 5 | Given I am unable to see certain colours as a colour-blind user <br>When I use the accessibility extension <br>Then I am given the option to remove certain colours from the viewing windows | N | |
+| 6 | Given I am used to working with the Microsoft Windows operating system <br>When using the HEAT application <br>Then I am easily able to use the functions due to my experience with Windows | Y | |
+| 7 | Given I am a visually impaired user that finds it difficult to read the icon annotations <br>When I hover the cursor over icons in the HEAT app <br>Then I am able to clearly read the annotation and have ample time (10-15 seconds) to read it | N | |
+| 8 | Given I am using the HEAT application for the first time <br>When attempting to link to a Haskell interpreter <br>Then I am able to navigate the files and connect with the interpreter with no difficulties | N | |
+| 9 | Given I am working in the HEAT application as a visually-impaired user <br>When I attempt to run a command or compile a program <br>Then I am aware of whether it was successful or encountered an error based on the respective sound effects | Y | |
+| 10 | Given I am severely visually impaired and wish to work with the HEAT application <br>When I use the voice control extension <br>Then I am able to control all aspects of HEAT as intended | N | |
 
 <details><summary><b>USER CASE DIAGRAM</b></summary>
 ![HEAT_user_case](uploads/2bea741c67418d3bf300a8089d0b1b4f/HEAT_user_case.jpg)</details><br>
