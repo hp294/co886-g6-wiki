@@ -1,6 +1,6 @@
 **Cursor Visibility**  
 
-• Many people with poor visual find it difficult to locate the text cursor. It makes sense to make the cursor bigger and a block shape in order to see it better[7].
+• Many people with poor vision find it difficult to locate the text cursor. It makes sense to make the cursor bigger and a block shape in order to see it better[7].
 • Since the background is going to be black, it makes sense for the caret cursor to be white in order to stand out as much as possible.
 • To change the size or type of a caret you need to create a custom caret class which is extended from the default caret class [5].
 
