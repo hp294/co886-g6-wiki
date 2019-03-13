@@ -21,7 +21,7 @@
 • There is website for free sounds which are royalty free and are freely usable in any applications - www.freesounds.org.
 
 
-**CITATIONS**
+**CITATIONS**  
 [1] https://nei.nih.gov/health/color_blindness/facts_about<br>
 [2] https://chrome.google.com/webstore/detail/high-contrast/djcfdncoelnlbldjfhinnjlhdjlikmph/related?hl=en<br>
 [3] http://www.bbc.co.uk/accessibility/guides/factsheets/factsheet_vision_computing.pdf<br>
