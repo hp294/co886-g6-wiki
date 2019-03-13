@@ -8,7 +8,7 @@
    * [Code Inspection](https://git.cs.kent.ac.uk/co886/g6/wikis/CO886_G6_Documentation/Quality-Assurance)
 
 2. Plans
-   * Methodology: [Scrum Agile](./Development-Process-and-Plans/Scrum-Agile), [User stories](./User-Stories),  & [GitLab Sprint Log](https://git.cs.kent.ac.uk/co886/g6/milestones/3)  
+   * Methodology: [Scrum Agile](./Development-Process-and-Plans/Scrum-Agile), [User stories](./User-Stories),  & [Sprint Log](https://git.cs.kent.ac.uk/co886/g6/milestones/3)  
    * Daily Scrum Meeting: what we did, what we do today, and any challenges.
 
 <details><summary><b>Class Diagram</b></summary>
