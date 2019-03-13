@@ -2,7 +2,7 @@
 • abc   
 
 **Colour & Contrast**    
-• Some visually impaired users may have difficulty distinguishing between certain colours. The most common types of colour blindness are red-green, blue-yellow and complete colour blindness (monochromacy)[1]. People with red-green colour blindness – the most common variant, may see red as black or brown, which may make red text and components difficult to see clearly, particularly when used against a dark background. This suggests removing red from the program would be beneficial to some colour-blind users.
+• Some visually impaired users may have difficulty distinguishing between certain colours. The most common types of colour blindness are red-green, blue-yellow and complete colour blindness (monochromacy)[1]. People with red-green colour blindness – the most common variant, may see red as black or brown, which may make red text and components difficult to see clearly, particularly when used against a dark background. This suggests removing red from the program would be beneficial to some colour-blind users.<br>
 • Google Accessibility offers a chrome extension that tries to improve web-browsing for the visually impaired[2]. The available adjustments include “invert colour”, which generally changes a webpage background to black as most websites offer a predominantly white background. Another adjustment is “increased contrast” which heightens the contrast between colours. These are two adjustments that could be implemented into the HEAT application.
 
 
