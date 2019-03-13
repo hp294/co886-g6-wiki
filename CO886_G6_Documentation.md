@@ -42,6 +42,7 @@
       * [Unit Testing](./CO886_G6_Documentation/Quality-Assurance)   
       * [Validation (V&V)](./CO886_G6_Documentation/Quality-Assurance)  
       * [User Testing](./CO886_G6_Documentation/Quality-Assurance)
+      * [Functional Testing](./CO886_G6_Documentation/Quality-Assurance)
    * [Acceptance Criteria](./CO886_G6_Documentation/User-Stories)  
    * [Definition](./CO886_G6_Documentation/Quality-Assurance)  
    * [Evaluation](./CO886_G6_Documentation/Quality-Assurance)   
