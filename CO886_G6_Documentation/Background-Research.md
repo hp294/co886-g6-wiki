@@ -15,10 +15,10 @@
 • The BBC in their fact sheet [Vision Impairment and Computing][3] discuss the recommended font types for the visually impaired. They recommend using sans-serif fonts because they have no tails. It is also recommended to use a font that has a uniform line width. One such font recommended is Arial. It stands to reason that increasing the font size will benefit those who are visually impaired.  
 
 **Sound Effect**  
-• Sound effects can be an effective method of signalling events to a user. For the visually impaired this means that they are alerted immediately that an issue has occurred, and also can help to make the experience more entertaining, rather than having the difficulty to realise that an error has occurred solely by vision.
-• Sound effects can warn a user to take some form of action [4].
-•  Suitable sound effects should that are expected to trigger regularly should be kept short in duration [5].
-• There is website for free sounds which are royalty free and are freely usable in any applications - www.freesounds.org.
+• Sound effects can be an effective method of signalling events to a user. For the visually impaired this means that they are alerted immediately that an issue has occurred, and also can help to make the experience more entertaining, rather than having the difficulty to realise that an error has occurred solely by vision.  
+• Sound effects can warn a user to take some form of action [4].  
+• Suitable sound effects should that are expected to trigger regularly should be kept short in duration [5].  
+• There is website for free sounds which are royalty free and are freely usable in any applications - www.freesounds.org.   
 
 
 **CITATIONS**  
