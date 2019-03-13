@@ -1,10 +1,11 @@
 **Test**
    * Planning:
-   * Test: 
+   * Tests: 
      * Unit Testing
-     * Validation (V&V)
-     * User Testing   
-     * Functional Testing
+     * Junit Test
+     * Acceptance Criteria Testing
+     * User Testing
+     * Code Quality Testing(?)
 
 [<b>Acceptance Criteria](https://git.cs.kent.ac.uk/co886/g6/wikis/CO886_G6_Documentation/User-Stories)   
 **Definition**   
