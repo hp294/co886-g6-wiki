@@ -1,12 +1,11 @@
 • Heat currently has no interfaces to cope with users who have a visual disability or who are blind. Heat does however 
-  allow the user to increase the font size from 10-24 in both the editor and interpreter window. 
-• One of the users stories is to be able to read and see text clearer. 
-• The fonts define the look of text. The two primary elements in this definition are type of font and their size.
+  allow the user to increase the font size from between size 10 and 24 in both the editor and interpreter window. 
+• A user story is to be able to read and see text clearer. 
+• Fonts define the look of text. The two primary elements in this definition are type of font and their size.
 • The BBC in their fact sheet Vision Impairment and Computing discuss the recommended font types for the visually 
   impaired. They recommend using sans-serif fonts because they have no tails. It is also recommended to use a font 
-  that has a uniform line width. One such font recommended is Arial (http://www.bbc.co.uk/accessibility/guides/fact
-  sheets/factsheet_vision_computing.pdf).
+  that has a uniform line width. One such font recommended is Arial, (http://www.bbc.co.uk/accessibility/guides/fact
+  sheets/factsheet_vision_computing.pdf). It stands to reason that increasing the font size will benefit those who are 
+  visually impaired.
 
 
-R
-• Investigate relevant technologies. For example, you might want to look at speech synthesis technologies, such as the open-source FreeTTS system. 
