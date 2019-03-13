@@ -19,10 +19,7 @@
 • Sound effects can warn a user to take some form of action [4].
 •  Suitable sound effects should that are expected to trigger regularly should be kept short in duration [5].
 • There is website for free sounds which are royalty free and are freely usable in any applications - www.freesounds.org.
- 
 
-**Standard Interface**  
-• abc   
 
 **CITATIONS**
 [1] https://nei.nih.gov/health/color_blindness/facts_about<br>
