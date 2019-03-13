@@ -20,7 +20,7 @@ Google Accessibility offers a chrome extension that tries to improve web-browsin
 **Standard Interface**  
 • abc   
 
-**Citations**
-[1] https://nei.nih.gov/health/color_blindness/facts_about
-[2] https://chrome.google.com/webstore/detail/high-contrast/djcfdncoelnlbldjfhinnjlhdjlikmph/related?hl=en
-[3] http://www.bbc.co.uk/accessibility/guides/factsheets/factsheet_vision_computing.pdf
+**Citations**<br>
+[1] https://nei.nih.gov/health/color_blindness/facts_about<br>
+[2] https://chrome.google.com/webstore/detail/high-contrast/djcfdncoelnlbldjfhinnjlhdjlikmph/related?hl=en<br>
+[3] http://www.bbc.co.uk/accessibility/guides/factsheets/factsheet_vision_computing.pdf<br>
