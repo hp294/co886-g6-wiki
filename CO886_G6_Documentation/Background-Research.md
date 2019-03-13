@@ -1,4 +1,4 @@
-**Cursor Visibility**   
+**Cursor Visibility**  
 • abc   
 
 **Colour & Contrast**    
