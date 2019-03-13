@@ -37,10 +37,11 @@
    * colour blind simulations
    
 6. [Quality Assurance](./CO886_G6_Documentation/Quality-Assurance)
-   * [Test Planning]
-     * https://docs.gitlab.com/ee/ci/examples/code_quality.html
-     * https://docs.gitlab.com/ee/ci/examples/end_to_end_testing_webdriverio/index.html
-   * Test: Unit Testing, Validation (V&V), User Testing
-   * [Acceptance Criteria] 
-   * [Definition]
-   * [Evaluation] 
+   * [Planning](./CO886_G6_Documentation/Quality-Assurance)
+   * [Test:](./CO886_G6_Documentation/Quality-Assurance)
+      * [Unit Testing](./CO886_G6_Documentation/Quality-Assurance)   
+      * [Validation (V&V)](./CO886_G6_Documentation/Quality-Assurance)  
+      * [User Testing](./CO886_G6_Documentation/Quality-Assurance)
+   * [Acceptance Criteria](./CO886_G6_Documentation/User-Stories)  
+   * [Definition](./CO886_G6_Documentation/Quality-Assurance)  
+   * [Evaluation](./CO886_G6_Documentation/Quality-Assurance)   
