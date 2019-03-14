@@ -40,8 +40,6 @@ The amended code will result in larger text size and a font type that is easier 
 
 
 **TESTING**  
-[Test Planning](/Quality-Assurance)   
-Test performed: 
-How often:
-
-
+Test plan: [Test Plan of Quality Assurance](/Quality-Assurance)   
+Test performed: [Evaluation of Quality Assurance](/Quality-Assurance)  
+How often: [Evaluation of Quality Assurance](/Quality-Assurance)  
