@@ -20,7 +20,7 @@ They share the same goal: Maximise transparency (priority, plan, progress) and p
 
 2. Plans
    * Methodology: [Scrum Agile](./Definition/Scrum-Agile-Process), [User stories](./User-Stories)    
-   * Charts: [Sprint Burndown](https://git.cs.kent.ac.uk/co886/g6/milestones/3), [Pipeline](https://git.cs.kent.ac.uk/co886/g6/pipelines/charts) 
+   * Charts: [Sprint Burndown](https://git.cs.kent.ac.uk/co886/g6/milestones/3)
 
 <details><summary><b>Process</b></summary>   
 ![image](uploads/f8d34373384eb3f0b40d07697daf05f1/image.png)<br>   
