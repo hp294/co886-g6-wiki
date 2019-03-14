@@ -1,4 +1,4 @@
-**Test Plan for the HEAT Accessibility Function**<br>
+<details><summary><b>Test Plan for the HEAT Accessibility Function</b></summary><br>
 
 **1. Objectives**<br>
 
@@ -156,38 +156,18 @@ The performance testing verifies all components of the accessibility function in
 **References**<br>
 [1]https://sceweb.uhcl.edu/helm/RUP_course_example/courseregistrationproject/artifacts/test/plans/test_plan_arch.htm
 [2]https://git.cs.kent.ac.uk/help/ci/junit_test_reports.md  
+</details>
 
 
 
 
 
+<details><summary><b>Definition</b></summary><br>   
 
 
+</details> 
+
+<details><summary><b>Evaluation</b></summary><br>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Definition**   
-**Evaluation**       
+</details> 
