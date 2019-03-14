@@ -14,7 +14,7 @@
 | 10 | Given I am severely visually impaired and wish to work with the HEAT application <br>When I use the voice control extension <br>Then I am able to control all aspects of HEAT as intended | N | |
 
 
-**PRODUCT BACKLOG**
+**USER STORIES**
 
 *Estimate*: 1-easy, 5-difficult  
 *Priority*: 1-must, 5-could
