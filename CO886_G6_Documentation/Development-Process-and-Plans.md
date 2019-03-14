@@ -20,7 +20,7 @@
 They share the same goal: Maximise transparency (priority, plan, progress) and promote shared understanding of the work  
 
 2. Plans
-   * Methodology: [Scrum Agile](./Development-Process-and-Plans/Scrum-Agile), [User stories](./User-Stories)    
+   * Methodology: [Scrum Agile](./Definition/Scrum-Agile), [User stories](./User-Stories)    
    * Charts: [Sprint Burndown](https://git.cs.kent.ac.uk/co886/g6/milestones/3), [Pipeline](https://git.cs.kent.ac.uk/co886/g6/pipelines/charts) 
 
 <details><summary><b>Class Diagram</b></summary>
