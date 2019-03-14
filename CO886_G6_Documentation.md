@@ -33,10 +33,14 @@
    * [Process Diagram](./CO886_G6_Documentation/Development-Process-and-Plans)
 
 6. [Tools](./CO886_G6_Documentation/Tools)
-   * [Git]
-   * [Eclipse] (debug and test)
-   * for drawing UML diagram
-   * colour blind simulations
+   * [GitLab](./CO886_G6_Documentation/Tools)
+   * [Eclipse](./CO886_G6_Documentation/Tools)
+   * [Papyrus](./CO886_G6_Documentation/Tools)
+   * [Dropbox](./CO886_G6_Documentation/Tools)
+   * [Logo Maker](./CO886_G6_Documentation/Tools)
+   * [High Contrast Chrome Extension](./CO886_G6_Documentation/Tools)
+   * [Object Aid UML Explorer](./CO886_G6_Documentation/Tools)
+   * [Colour Blind Simulations](./CO886_G6_Documentation/Tools)
    
 7. [Quality Assurance](./CO886_G6_Documentation/Quality-Assurance)
    * [Planning](./CO886_G6_Documentation/Quality-Assurance)
