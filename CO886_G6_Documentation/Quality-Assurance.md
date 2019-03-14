@@ -153,10 +153,9 @@ The acceptance criteria has passed all tests for both developer and user.
 
 The performance testing verifies all components of the accessibility function in combination. The test is less constrictive than the unit testing and validation testing phases. The testing should be done by a variety of users and feedback should be recorded.
 
-**References**
+**References**<br>
 [1]https://sceweb.uhcl.edu/helm/RUP_course_example/courseregistrationproject/artifacts/test/plans/test_plan_arch.htm
-[2]https://git.cs.kent.ac.uk/help/ci/junit_test_reports.md   
-[3]
+[2]https://git.cs.kent.ac.uk/help/ci/junit_test_reports.md  
 
 
 
