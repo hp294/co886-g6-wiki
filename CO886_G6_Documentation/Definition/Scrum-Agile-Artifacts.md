@@ -8,4 +8,4 @@ There are 3 primary Scrum Artifacts:
 
 **Definition of Done**: When the Product Increment is delivered, it needs to meet “Definition of Done” which is a shared understanding document of the development team regarding of what “done” means. This definition is different for every Scrum Team, and as the team matures, the Definition of Done will expand and become more stringent.
 
-Reference: [scrumalliance.org](https://www.scrumalliance.org/learn-about-scrum/scrum-elearning-series/scrum-artifacts), [payton-consulting.com](http://www.payton-consulting.com/three-important-scrum-artifacts/)
+**Reference**: [scrumalliance.org](https://www.scrumalliance.org/learn-about-scrum/scrum-elearning-series/scrum-artifacts), [payton-consulting.com](http://www.payton-consulting.com/three-important-scrum-artifacts/)
