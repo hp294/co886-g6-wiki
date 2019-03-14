@@ -6,7 +6,7 @@
    * [<b>Code Inspection](https://git.cs.kent.ac.uk/co886/g6/wikis/CO886_G6_Documentation/Quality-Assurance)
    * [<b>Allocation of tasks](https://git.cs.kent.ac.uk/co886/g6/graphs/master) 
    * <b>Daily Scrum Meeting Minute
-   * <b>Artifacts</b>: [Definition](./Definition/Scrum-Agile-Artifacts), [Product Log](https://git.cs.kent.ac.uk/co886/g6/issues), [Sprint Log](https://git.cs.kent.ac.uk/co886/g6/milestones/3), [Product Increment]
+   * <b>Artifacts</b>: [Definition](./Definition/Scrum-Agile-Artifacts), [Product Log](https://git.cs.kent.ac.uk/co886/g6/issues), [Sprint Log](https://git.cs.kent.ac.uk/co886/g6/milestones/3), Finalised Features.
 * Product Backlog & Sprint Backlog: defines work to be done that will add value. 
 * Product Increment: Done portion of the product completed in a Sprint.
 * Single ordered list: Make Organisational priority transparent to all internal stakeholders of the product
