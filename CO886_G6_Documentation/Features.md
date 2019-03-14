@@ -40,5 +40,5 @@ The amended code will result in larger text size and a font type that is easier 
 
 
 **TESTING**  
-Test plan: [Quality Assurance - Test Plan](./CO886_G6_Documentation/Quality-Assurance)   
-Test performed, Frequency and Outcomes: [Quality Assurance - Evaluation](./CO886_G6_Documentation//Quality-Assurance)  
+Test plan: [Quality Assurance - Test Plan](./Quality-Assurance)   
+Test performed, Frequency and Outcomes: [Quality Assurance - Evaluation](./Quality-Assurance)  
