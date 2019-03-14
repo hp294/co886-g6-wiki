@@ -11,7 +11,7 @@ This document details the plan for testing the extended accessibility functions 
 
 **1.2 Test Scope**<br>
 
-This plan assumes that the HEAT application has already undergone extensive testing procedures. Therefore testing will be limited to the components within the system that have been extended for improved accessibility for visually-impaired users.<br>
+This plan assumes that the HEAT application has already undergone extensive testing procedures. Therefore testing will be limited to the components within the system that have been extended for improved accessibility for visually-impaired users. Note: due to the trivial change in the HEAT task bar (changing the "Program" heading to "File" to be consistent with the Windows task bar), it was deemed unnecessary to test this function formally. <br>
 
 The system components to be tested are:<br>
 
@@ -115,7 +115,7 @@ Ensure that...<br>
 Tests:<br>
 1. Inspect font in the original version of the application and the extended version. Check all fonts are in Arial and that the text is larger in the extended version.
 
-**3.1.5 Cursor size and colour**
+**3.1.5 Cursor size and contrast**
 
 Test objectives:<br> 
 
