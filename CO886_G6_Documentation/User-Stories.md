@@ -4,8 +4,8 @@
 | ------ | ------ | ------ | ------ |
 | 1 | Given I am unable to read the text <br>When I enable the screen-reader <br>Then the screen-reader will  narrate what I have highlighted | N | |
 | 2 | Given I am not able to navigate the application with a mouse <br>When using keyboard shortcuts prescribed in the application manual <br>Then I can access the menu options I require | N | |
-| 3 | Given I want to read text in the application as a short-sighted user <br>When I use the accessibility extension <br>Then the text is clearly readable in all areas of the application | Y | |
-| 4 | Given I find it difficult to locate the cursor as a short-sighted user <br>When I use the accessibility extension <br>Then I am able to locate the cursor with no difficulties no matter what document is displayed | Y | |
+| 3 | Given I want to read text in the application as a visually impaired user <br>When I use the accessibility extension <br>Then the text is clearly readable in all areas of the application | Y | |
+| 4 | Given I find it difficult to locate the cursor as a visually impaired user <br>When I use the accessibility extension <br>Then I am able to locate the cursor with no difficulties no matter what document is displayed | Y | |
 | 5 | Given I am unable to see certain colours as a colour-blind user <br>When I use the accessibility extension <br>Then I am given the option to remove certain colours from the viewing windows | N | |
 | 6 | Given I am used to working with the Microsoft Windows operating system <br>When using the HEAT application <br>Then I am easily able to use the functions due to my experience with Windows | Y | |
 | 7 | Given I am a visually impaired user that finds it difficult to read the icon annotations <br>When I hover the cursor over icons in the HEAT app <br>Then I am able to clearly read the annotation and have ample time (10-15 seconds) to read it | N | |
