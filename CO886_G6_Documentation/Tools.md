@@ -16,7 +16,7 @@
 
 [* High Contrast Chrome extension was used to test colour contrasts. ](https://chrome.google.com/webstore/detail/high-contrast/djcfdncoelnlbldjfhinnjlhdjlikmph?hl=en)
 
-[* Object Aid UML Explorer was used to produce the class diagram](uhttps://www.objectaid.com/home
+[* Object Aid UML Explorer was used to produce the class diagram](uhttps://www.objectaid.com/home)
 
 
 
