@@ -1,4 +1,4 @@
-* GitLab was used for the following:-
+[* GitLab was used for the following:-](https://about.gitlab.com/)
 
 [Analysis and description of user requirements.](./User-Stories)
 [Planning and development.](./Development-Process-and-Plans)
