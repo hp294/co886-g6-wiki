@@ -17,4 +17,6 @@
 
 * [Object Aid UML Explorer](https://www.objectaid.com/home) was used to produce the class diagram.
 
-* Colour Blind Simulations
+* Microsoft Windows colour filters was used to test the colour blind changes effectiveness.There were several options including 
+
+
