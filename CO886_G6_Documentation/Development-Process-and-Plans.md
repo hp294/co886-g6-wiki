@@ -22,9 +22,6 @@ They share the same goal: Maximise transparency (priority, plan, progress) and p
    * Methodology: [Scrum Agile](./Definition/Scrum-Agile-Process), [User stories](./User-Stories)    
    * Charts: [Sprint Burndown](https://git.cs.kent.ac.uk/co886/g6/milestones/3), [Pipeline](https://git.cs.kent.ac.uk/co886/g6/pipelines/charts) 
 
-<details><summary><b>Class Diagram</b></summary>
-![HEAT_class_diagram](uploads/3097e9933fe380a5150d54e3325da0b7/HEAT_class_diagram.jpg)</details>  
-
 <details><summary><b>Process</b></summary>   
 ![image](uploads/f8d34373384eb3f0b40d07697daf05f1/image.png)<br>   
 Reference: [Microsoft Azure](https://docs.microsoft.com/en-us/azure/devops/boards/work-items/guidance/_img/agile-process-work-tracking-wits.png?view=azure-devops)</details>     
