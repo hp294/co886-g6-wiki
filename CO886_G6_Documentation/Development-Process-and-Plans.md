@@ -1,13 +1,12 @@
 1. Development Process
-   * [Issue Tracking](https://git.cs.kent.ac.uk/co886/g6/issues)
-   * Issue Triage
-   * [Version control](https://git.cs.kent.ac.uk/co886/g6/network/master)
-   * [Test Planning](https://git.cs.kent.ac.uk/co886/g6/wikis/CO886_G6_Documentation/Quality-Assurance)
+   * [<b>Issue Tracking](https://git.cs.kent.ac.uk/co886/g6/issues) & [<b>Issue Triage](https://git.cs.kent.ac.uk/co886/g6/issues): Each issue is added to the Issue List where we set weight, priority and with relevant label to the nature of the issue. Weight, Difficulty labels as well as Label Priority are used to prioritise the list. 
+   * [<b>Version control](https://git.cs.kent.ac.uk/co886/g6/network/master): The team follows [GitFlow](https://about.gitlab.com/2014/09/29/gitlab-flow/). Different version of codes are kept in individual branches. Each developer has their own [Branch](https://git.cs.kent.ac.uk/co886/g6/branches). A [Merge Request](https://git.cs.kent.ac.uk/co886/g6/commits/master) is created when a developer wants to add their changes to the master branch, which is reviewed before the merge happens. Lead developer is in charge of reviewing the merge requests. The [Changes History](https://git.cs.kent.ac.uk/co886/g6/network/master) can be viewed in a chart format.    
+   * [<b>Test Planning](https://git.cs.kent.ac.uk/co886/g6/wikis/CO886_G6_Documentation/Quality-Assurance)
    * Feedback
-   * [Code Inspection](https://git.cs.kent.ac.uk/co886/g6/wikis/CO886_G6_Documentation/Quality-Assurance)
-   * [Allocation of tasks](https://git.cs.kent.ac.uk/co886/g6/graphs/master) 
-   * Daily Scrum Meeting Minute
-   * Artifacts: [Definition](./Definition/Scrum-Agile-Artifacts), [Product Log](https://git.cs.kent.ac.uk/co886/g6/issues), [Sprint Log](https://git.cs.kent.ac.uk/co886/g6/milestones/3), [Product Increment]
+   * [<b>Code Inspection](https://git.cs.kent.ac.uk/co886/g6/wikis/CO886_G6_Documentation/Quality-Assurance)
+   * [<b>Allocation of tasks](https://git.cs.kent.ac.uk/co886/g6/graphs/master) 
+   * <b>Daily Scrum Meeting Minute
+   * <b>Artifacts</b>: [Definition](./Definition/Scrum-Agile-Artifacts), [Product Log](https://git.cs.kent.ac.uk/co886/g6/issues), [Sprint Log](https://git.cs.kent.ac.uk/co886/g6/milestones/3), [Product Increment]
 * Product Backlog & Sprint Backlog: defines work to be done that will add value. 
 * Product Increment: Done portion of the product completed in a Sprint.
 * Single ordered list: Make Organisational priority transparent to all internal stakeholders of the product
