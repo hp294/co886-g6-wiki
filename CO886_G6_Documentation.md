@@ -7,10 +7,10 @@
    * [UML Diagram - Activity](./CO886_G6_Documentation/User-Stories) 
 
 3. [Features](./CO886_G6_Documentation/Features)
-   * Use cases
-   * Class and sequence diagrams
-   * Implementation
-   * Testing 
+   * [Use cases](./CO886_G6_Documentation/Features)
+   * [Class and sequence diagrams](./CO886_G6_Documentation/Features)
+   * [Implementation](./CO886_G6_Documentation/Features)
+   * [Testing](./CO886_G6_Documentation/Features)
 
 4. [Development Process and Plans](./CO886_G6_Documentation/Development-Process-and-Plans)  
    * [Development Process](./CO886_G6_Documentation/Development-Process-and-Plans)
