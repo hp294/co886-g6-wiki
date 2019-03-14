@@ -14,7 +14,7 @@
 
 [* logo Maker was used to create a new screen cross hair and curser.](https://logomakr.com/)
 
-[* High Contrast Chrome extension was used to test colour contrasts. ](https://www.google.co.uk/search?q=high+contrast+chrome+extension&rlz=1C1GCEV_en&oq=high+conbtract+chrome+&aqs=chrome.1.69i57j0l5.5784j0j7&sourceid=chrome&ie=UTF-8)
+[* High Contrast Chrome extension was used to test colour contrasts. ](https://chrome.google.com/webstore/detail/high-contrast/djcfdncoelnlbldjfhinnjlhdjlikmph?hl=en)
 
 [* Object Aid UML Explorer was used to produce the class diagram](uhttps://www.objectaid.com/home
 
