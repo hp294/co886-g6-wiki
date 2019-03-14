@@ -15,8 +15,7 @@
 
 <details><summary><b>USER CASE DIAGRAM</b></summary>
 ![HEAT_user_case](uploads/2bea741c67418d3bf300a8089d0b1b4f/HEAT_user_case.jpg)</details><br>
-<details><summary><b>ACTIVITY DIAGRAM</b></summary><br>
-![HEAT_action_process](uploads/1d07110fc77a5fa4b1f37edd45a8aca2/HEAT_action_process.jpg)</details><br>
+
 
 **PRODUCT BACKLOG**
 
