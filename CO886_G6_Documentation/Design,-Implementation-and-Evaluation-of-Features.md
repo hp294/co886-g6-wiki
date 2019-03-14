@@ -11,9 +11,14 @@ The amended code will result in larger text size and a font type that is easier 
 
 
 **Design** 
-**Implementation**   
-[Branches](https://git.cs.kent.ac.uk/co886/g6/branches)   
-[Commits](https://git.cs.kent.ac.uk/co886/g6/commits/master)   
-[Contribution](https://git.cs.kent.ac.uk/co886/g6/graphs/master)   
+<details><summary><b>ACTIVITY DIAGRAM</b></summary><br>
+![HEAT_action_process](uploads/1d07110fc77a5fa4b1f37edd45a8aca2/HEAT_action_process.jpg)</details><br>
+
+<details><summary><b>Class Diagram</b></summary>
+![HEAT_class_diagram](uploads/3097e9933fe380a5150d54e3325da0b7/HEAT_class_diagram.jpg)</details>  
+
+**Implementation**
+Describe what have been done/ would have donw/how it was done. 
+Test: test plan, what is done, how many time      
 
 **Evaluation**   
