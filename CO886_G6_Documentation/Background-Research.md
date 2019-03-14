@@ -12,7 +12,7 @@
   allow the user to increase the font size from between size 10 and 24 in both the editor and interpreter window.   
 • A user story is to be able to read and see text clearer.   
 • Fonts define the look of text. The two primary elements in this definition are type of font and their size.  
-• The BBC in their fact sheet [Vision Impairment and Computing][3] discuss the recommended font types for the visually impaired. They recommend using sans-serif fonts because they have no tails. It is also recommended to use a font that has a uniform line width. One such font recommended is Arial. It stands to reason that increasing the font size will benefit those who are visually impaired.  
+• The BBC in their fact sheet [Vision Impairment and Computing][3] discuss the recommended font types for the visually impaired. They recommend using sans-serif fonts because they do not have tails. It is also recommended to use a font that has a uniform line width. One such font recommended is Arial. It stands to reason that increasing the font size will benefit those who are visually impaired.  
 
 **Sound Effect**  
 • Sound effects can be an effective method of signalling events to a user. For the visually impaired this means that they are alerted immediately that an issue has occurred, and also can help to make the experience more entertaining, rather than having the difficulty to realise that an error has occurred solely by vision.  
