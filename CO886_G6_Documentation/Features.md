@@ -4,7 +4,7 @@
 [User Stories](url)<br>  
 [Acceptance Criteria](url)<br>
   
-<br>**CLASS AND SEQUENCE DIAGRAM**
+<br>**CLASS AND ACTIVITY DIAGRAM**
 <details><summary><b>Activity Diagram</b></summary><br>
 ![HEAT_action_process](uploads/1d07110fc77a5fa4b1f37edd45a8aca2/HEAT_action_process.jpg)</details>
 <details><summary><b>Class Diagram</b></summary>
