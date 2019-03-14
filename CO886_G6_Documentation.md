@@ -8,7 +8,7 @@
 
 4. [Features](./CO886_G6_Documentation/Features)
    * [Use cases](./CO886_G6_Documentation/Features) 
-   * [Class and sequence diagrams](./CO886_G6_Documentation/Features)
+   * [Class and Process Diagrams](./CO886_G6_Documentation/Features)
    * [Implementation](./CO886_G6_Documentation/Features)
    * [Testing](./CO886_G6_Documentation/Features)
 
@@ -28,9 +28,6 @@
    * [Plan](./CO886_G6_Documentation/Development-Process-and-Plans)
      * Methodology: [Scrum Agile](./Development-Process-and-Plans/Scrum-Agile), [User stories](./User-Stories),  & [Sprint Log](https://git.cs.kent.ac.uk/co886/g6/milestones/3)  
      * Charts: [Sprint Burndown](https://git.cs.kent.ac.uk/co886/g6/milestones/3), [Pipeline](https://git.cs.kent.ac.uk/co886/g6/pipelines/charts) 
-
-   * [Class Diagram](./CO886_G6_Documentation/Development-Process-and-Plans)
-   * [Process Diagram](./CO886_G6_Documentation/Development-Process-and-Plans)
 
 6. [Tools](./CO886_G6_Documentation/Tools)
    * [GitLab](./CO886_G6_Documentation/Tools)
