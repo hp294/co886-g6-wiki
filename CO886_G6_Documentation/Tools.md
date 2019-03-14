@@ -14,6 +14,8 @@
 
 [* logo Maker was used to create a new screen cross hair and curser.](https://logomakr.com/)
 
+[* High Contrast Chrome extention was used to test colour contrasts. ](https://www.google.co.uk/search?q=high+contrast+chrome+extension&rlz=1C1GCEV_en&oq=high+conbtract+chrome+&aqs=chrome.1.69i57j0l5.5784j0j7&sourceid=chrome&ie=UTF-8)
+
 
 
  
