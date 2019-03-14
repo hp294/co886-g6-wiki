@@ -6,10 +6,11 @@
    * [UML Diagram - Use Case](./CO886_G6_Documentation/User-Stories) 
    * [UML Diagram - Activity](./CO886_G6_Documentation/User-Stories) 
 
-3. [Design, Implementation and Evaluation of Features](./CO886_G6_Documentation/Design,-Implementation-and-Evaluation-of-Features)  
-   * [Design](./CO886_G6_Documentation/Design,-Implementation-and-Evaluation-of-Features)
-   * [Implementation](./CO886_G6_Documentation/Design,-Implementation-and-Evaluation-of-Features)
-   * [Evaluation](./CO886_G6_Documentation/Design,-Implementation-and-Evaluation-of-Features)
+3. [Features](./CO886_G6_Documentation/Features)
+   * Use cases
+   * Class and sequence diagrams
+   * Implementation
+   * Testing 
 
 4. [Development Process and Plans](./CO886_G6_Documentation/Development-Process-and-Plans)  
    * [Development Process](./CO886_G6_Documentation/Development-Process-and-Plans)
@@ -47,3 +48,7 @@
    * [Acceptance Criteria](./CO886_G6_Documentation/User-Stories)  
    * [Definition](./CO886_G6_Documentation/Quality-Assurance)  
    * [Evaluation](./CO886_G6_Documentation/Quality-Assurance)   
+
+6. [Minutes of the Meetings](./Minutes-of-the-Meetings)
+
+7. [Final version]
