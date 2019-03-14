@@ -19,7 +19,7 @@ The system components to be tested are:<br>
 2. Sound effects denoting success and failure with regard to command execution and program compilation.<br>
 3. Icon size.<br>
 4. Font size and font type.<br>
-5. Text cursor size and colour in console window.<br>
+5. Cursor size and colour.<br>
 
 The critical performance measures to test are:<br>
 
@@ -44,7 +44,7 @@ Verify colour and contrast modification.<br>
 Verify sound effect inclusion.<br>
 Verify icon size modification.<br>
 Verify font size and type modification.<br>
-Verify cursor size and colour within console window.
+Verify cursor size and colour.
 
 **2.3 Validation Testing**
 
@@ -63,9 +63,100 @@ This section presents recommended approaches to the testing of the accessibility
 
 Due to the collaborative nature of the project, with different people working on separate accessibility functions, the components listed in 1.2 should initially be tested as individual units before a full system test.
 
-*3.1.1 Colour and contrast testing*
+**3.1.1 Colour and contrast testing**
 
-Test objective: Ensure all changes in text colour/contrast and background colour/contrast has 
+Test objectives:<br> 
+
+Ensure that...<br>
+1. All red text has been removed from the application.
+2. Text colour sharpness has been increased for all colours.
+3. Background colour has been changed from white to black in all viewing windows.
+4. All black text has been changed to white to contrast with the background.
+5. The editor window highlight bar has been changed from yellow to grey.
+ 
+Tests:<br>
+1. Invoke errors through an incorrect command and a compilation failure to check for red text.
+2. Open and compile noughts and crosses program in original HEAT application and extended version. Inspect colour differences between the two.
+3. Expand tree window, console window and editor window to check background colour.
+4. Inspect original version and extended version, check that no text is missing.
+5. Insert code into editor window and use highlight bar to scroll. Check it remains grey.
+
+**3.1.2 Sound effect testing**
+
+Test objectives:<br> 
+
+Ensure that...<br>
+1. Success sound plays for successful commands and compilations.
+2. Error sound plays for unsuccessful commands and compilations.
+3. Success and error sounds are clear and distinct.
+ 
+Tests:<br>
+1. Write a JUnit test to test for a success sound effect for all instances of successful command or compilation.
+2. Write a JUnit test to test for an error sound effect for all instances of unsuccessful command or compilation.
+
+**3.1.3 Icon size testing**
+
+Test objectives:<br> 
+
+Ensure that...<br>
+1. All icons in the application have increased in size 
+ 
+Tests:<br>
+1. Inspect icons in the original version of the application and the extended version. Check all icons are larger in the extended version.
+
+**3.1.4 Font size and font type**
+
+Test objectives:<br> 
+
+Ensure that...<br>
+1. All font sizes throughout the application have been increased.
+2. All font type has been altered to Arial.
+ 
+Tests:<br>
+1. Inspect font in the original version of the application and the extended version. Check all fonts are in Arial and that the text is larger in the extended version.
+
+**3.1.5 Cursor size and colour**
+
+Test objectives:<br> 
+
+Ensure that...<br>
+1. The cursor size has increased throughout the application.
+2. The cursor colour has changed to maintain high contrast with the application background.
+ 
+Tests:<br>
+1. Inspect cursor size in the original version of the application and the extended version. Check cursor is larger in the extended version.
+2. Move cursor through each area of the application (console window, tree window, editor window, toolbar) and check cursor maintains size and background contrast.
+
+**Completion Criteria**
+1. All planned tests have been executed.
+2. All identified defects have been addressed.
+
+**3.2 Validation Testing**
+
+Due to the accessibility extension being highly dependent on user acceptance, extensive testing must be done with the end user in mind. 
+
+Test Objectives:<br>
+
+Validate the functions implemented for the accessibility extension against the original user requirements created through user stories, customer interviews and use case diagrams.
+
+Tests:
+
+Testing is dependent on the  [<b>Acceptance Criteria](https://git.cs.kent.ac.uk/co886/g6/wikis/CO886_G6_Documentation/User-Stories)   
+
+1. Task a developer with completing the assessment criteria against the accessibility extension version of Heat.
+2. Task a user with doing the same.
+
+**Completion Criteria**
+The acceptance criteria has passed all tests for both developer and user.
+
+**3.3 Performance Testing**
+
+The performance testing verifies all components of the accessibility function in combination. The test is less constrictive than the unit testing and validation testing phases. The testing should be done by a variety of users and feedback should be recorded.
+
+**References**
+[1]https://sceweb.uhcl.edu/helm/RUP_course_example/courseregistrationproject/artifacts/test/plans/test_plan_arch.htm
+[2]https://git.cs.kent.ac.uk/help/ci/junit_test_reports.md   
+[3]
 
 
 
@@ -93,23 +184,11 @@ Test objective: Ensure all changes in text colour/contrast and background colour
 
 
 
-   * Tests: 
-     * Unit Testing
-     * Junit Test
-     * Acceptance Criteria Testing
-     * User Testing
-     * Code Quality Testing(?)
 
-[<b>Acceptance Criteria](https://git.cs.kent.ac.uk/co886/g6/wikis/CO886_G6_Documentation/User-Stories)   
+
+
+
+
+
 **Definition**   
 **Evaluation**       
-
-https://git.cs.kent.ac.uk/help/user/project/merge_requests/sast.md    
-https://git.cs.kent.ac.uk/help/ci/README.md   
-https://git.cs.kent.ac.uk/help/user/project/merge_requests/dependency_scanning.md   
-https://git.cs.kent.ac.uk/help/user/project/merge_requests/dast.md   
-https://git.cs.kent.ac.uk/help/user/project/security_dashboard   
-https://git.cs.kent.ac.uk/help/ci/junit_test_reports.md   
-https://git.cs.kent.ac.uk/help/user/project/merge_requests/code_quality.md   
-https://docs.gitlab.com/ee/ci/examples/code_quality.html     
-https://docs.gitlab.com/ee/ci/examples/end_to_end_testing_webdriverio/index.html   
