@@ -1,18 +1,18 @@
-1. [Background Research](./CO886_G6_Documentation/Background-Research)  
+1. [Introduction]
 
-2. [User Stories](./CO886_G6_Documentation/User-Stories)  
+2. [Background Research](./CO886_G6_Documentation/Background-Research)  
+
+3. [User Stories](./CO886_G6_Documentation/User-Stories)  
    * [User Story](./CO886_G6_Documentation/User-Stories) 
-   * [Acceptance Criteria](./CO886_G6_Documentation/User-Stories) 
-   * [UML Diagram - Use Case](./CO886_G6_Documentation/User-Stories) 
-   * [UML Diagram - Activity](./CO886_G6_Documentation/User-Stories) 
+   * [Acceptance Criteria](./CO886_G6_Documentation/User-Stories)  
 
-3. [Features](./CO886_G6_Documentation/Features)
-   * [Use cases](./CO886_G6_Documentation/Features)
+4. [Features](./CO886_G6_Documentation/Features)
+   * [Use cases](./CO886_G6_Documentation/Features) 
    * [Class and sequence diagrams](./CO886_G6_Documentation/Features)
    * [Implementation](./CO886_G6_Documentation/Features)
    * [Testing](./CO886_G6_Documentation/Features)
 
-4. [Development Process and Plans](./CO886_G6_Documentation/Development-Process-and-Plans)  
+5. [Development Process and Plans](./CO886_G6_Documentation/Development-Process-and-Plans)  
    * [Development Process](./CO886_G6_Documentation/Development-Process-and-Plans)
      * [Product Log](https://git.cs.kent.ac.uk/co886/g6/issues) 
      * [Issue Tracking](https://git.cs.kent.ac.uk/co886/g6/issues)
@@ -32,13 +32,13 @@
    * [Class Diagram](./CO886_G6_Documentation/Development-Process-and-Plans)
    * [Process Diagram](./CO886_G6_Documentation/Development-Process-and-Plans)
 
-5. [Tools](./CO886_G6_Documentation/Tools)
+6. [Tools](./CO886_G6_Documentation/Tools)
    * [Git]
    * [Eclipse] (debug and test)
    * for drawing UML diagram
    * colour blind simulations
    
-6. [Quality Assurance](./CO886_G6_Documentation/Quality-Assurance)
+7. [Quality Assurance](./CO886_G6_Documentation/Quality-Assurance)
    * [Planning](./CO886_G6_Documentation/Quality-Assurance)
    * [Test:](./CO886_G6_Documentation/Quality-Assurance)
       * [Unit Testing](./CO886_G6_Documentation/Quality-Assurance)   
@@ -49,6 +49,6 @@
    * [Definition](./CO886_G6_Documentation/Quality-Assurance)  
    * [Evaluation](./CO886_G6_Documentation/Quality-Assurance)   
 
-6. [Minutes of the Meetings](./Minutes-of-the-Meetings)
+8. [Minutes of the Meetings](./Minutes-of-the-Meetings)
 
-7. [Final version]
+9. [Final version]
