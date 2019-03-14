@@ -17,6 +17,6 @@
 
 * [Object Aid UML Explorer](https://www.objectaid.com/home) was used to produce the class diagram.
 
-* Microsoft Windows colour filters was used to test the colour blind changes effectiveness.There were several options including 
+* Microsoft Windows colour filters was used to test the colour blind changes effectiveness.There were several options including Red-green(green weak,deuteranopia), Red-green(red weak, protanopia), Blue-yellow(tritanopia)(Windows/Settings/Ease of Access/Colour Filters).  
 
 
