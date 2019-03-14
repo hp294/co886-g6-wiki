@@ -6,7 +6,7 @@
 [Validation and verification.](./Quality-Assurance)
 [Documentation](https://git.cs.kent.ac.uk/co886/g6/wikis/CO886_G6_Documentation)
 
-[* Eclipse IDe for Java developers was used for amending the code by group members and pushing the code amendments to GitLab.](http://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers)
+[* Eclipse IDe for Java developers was used for amending the code by group members and pushing the code amendments to GitLab. Debug and test](http://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers)
 
 [* Papyrus, a UML add on for Eclipse was used to produce the use case diagram and activity diagram.](https://www.eclipse.org/papyrus/)
 
