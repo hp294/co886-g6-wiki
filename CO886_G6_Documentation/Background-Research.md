@@ -17,7 +17,7 @@
 **Sound Effect**  
 • Sound effects can be an effective method of signalling events to a user. For the visually impaired this means that they are alerted immediately that an issue has occurred, and can also help to make the experience more entertaining, rather than having the difficulty to realise that an error has occurred solely by vision.  
 • Sound effects can warn a user to take some form of action [4].  
-• Suitable sound effects should that are expected to trigger regularly should be kept short in duration [5].  
+• Suitable sound effects that are expected to trigger regularly should be kept short in duration [5].  
 • There is website for free sounds which are royalty free and are freely usable in any applications - www.freesounds.org.   
 
 
