@@ -1,26 +1,20 @@
-[* GitLab was used for the following:-](https://about.gitlab.com/)
+* [GitLab](https://about.gitlab.com/) was used for the following:
+  * [Analysis and Description of User Requirements](./User-Stories)   
+  * [Planning and Development.](./Development-Process-and-Plans)   
+  * [Source Code Management.](https://git.cs.kent.ac.uk/co886/g6/tree/master)   
+  * [Validation and Verification.](./Quality-Assurance)   
+  * [Documentation](https://git.cs.kent.ac.uk/co886/g6/wikis/CO886_G6_Documentation)  
 
-[Analysis and description of user requirements.](./User-Stories)
-[Planning and development.](./Development-Process-and-Plans)
-[Source code management.](https://git.cs.kent.ac.uk/co886/g6/tree/master)
-[Validation and verification.](./Quality-Assurance)
-[Documentation](https://git.cs.kent.ac.uk/co886/g6/wikis/CO886_G6_Documentation)
+* [Eclipse IDE](http://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers) was used for coding, debugging, testing and integrating with master branch in GitLab.   
 
-[* Eclipse IDe for Java developers was used for amending the code by group members and pushing the code amendments to GitLab. Debug and test](http://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers)
+* [Papyrus](https://www.eclipse.org/papyrus/) (UML add on for Eclipse) was used to produce the use case diagram and activity diagram.
 
-[* Papyrus, a UML add on for Eclipse was used to produce the use case diagram and activity diagram.](https://www.eclipse.org/papyrus/)
+* [Dropbox](https://www.dropbox.com) was used prior to establishing GitLab in order to share files.
 
-[* Dropbox was used prior to establishing GitLab in order to share files.](https://www.dropbox.com)
+* [Logo Maker](https://logomakr.com/) was used to create a new screen cross hair and curser.
 
-[* logo Maker was used to create a new screen cross hair and curser.](https://logomakr.com/)
+* [High Contrast Chrome extension](https://chrome.google.com/webstore/detail/high-contrast/djcfdncoelnlbldjfhinnjlhdjlikmph?hl=en) was used to test colour contrasts.
 
-[* High Contrast Chrome extension was used to test colour contrasts. ](https://chrome.google.com/webstore/detail/high-contrast/djcfdncoelnlbldjfhinnjlhdjlikmph?hl=en)
+* [Object Aid UML Explorer](https://www.objectaid.com/home) was used to produce the class diagram.
 
-[* Object Aid UML Explorer was used to produce the class diagram](https://www.objectaid.com/home)
-
-
-
- 
-
-
-   * colour blind simulations
+* Colour Blind Simulations
