@@ -1,4 +1,4 @@
-1. [Introduction]
+1. [OUTSTANDING - Introduction](./CO886_G6_Documentation/Introduction)
 
 2. [Background Research](./CO886_G6_Documentation/Background-Research)  
 
@@ -6,13 +6,13 @@
    * [User Story](./CO886_G6_Documentation/User-Stories) 
    * [Acceptance Criteria](./CO886_G6_Documentation/User-Stories)  
 
-4. [Features](./CO886_G6_Documentation/Features)
+4. [ON GOING - Features](./CO886_G6_Documentation/Features)
    * [Use cases](./CO886_G6_Documentation/Features) 
    * [Class and Process Diagrams](./CO886_G6_Documentation/Features)
    * [Implementation](./CO886_G6_Documentation/Features)
    * [Testing](./CO886_G6_Documentation/Features)
 
-5. [Development Process and Plans](./CO886_G6_Documentation/Development-Process-and-Plans)  
+5. [ON GOING - Development Process and Plans](./CO886_G6_Documentation/Development-Process-and-Plans)  
    * [Development Process](./CO886_G6_Documentation/Development-Process-and-Plans)
      * [Product Log](https://git.cs.kent.ac.uk/co886/g6/issues) 
      * [Issue Tracking](https://git.cs.kent.ac.uk/co886/g6/issues)
@@ -39,7 +39,7 @@
    * [Object Aid UML Explorer](./CO886_G6_Documentation/Tools)
    * [Colour Blind Simulations](./CO886_G6_Documentation/Tools)
    
-7. [Quality Assurance](./CO886_G6_Documentation/Quality-Assurance)
+7. [ON GOING - Quality Assurance](./CO886_G6_Documentation/Quality-Assurance)
    * [Planning](./CO886_G6_Documentation/Quality-Assurance)
    * [Test:](./CO886_G6_Documentation/Quality-Assurance)
       * [Unit Testing](./CO886_G6_Documentation/Quality-Assurance)   
@@ -50,6 +50,6 @@
    * [Definition](./CO886_G6_Documentation/Quality-Assurance)  
    * [Evaluation](./CO886_G6_Documentation/Quality-Assurance)   
 
-8. [Minutes of the Meetings](./Minutes-of-the-Meetings)
+8. [OUTSTANDING - Minutes of the Meetings](./Minutes-of-the-Meetings)
 
-9. [Final version]
+9. [OUTSTANDING - Final version](./CO886_G6_Documentation/Final Version)
