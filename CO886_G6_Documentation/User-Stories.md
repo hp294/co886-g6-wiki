@@ -13,9 +13,6 @@
 | 9 | Given I am working in the HEAT application as a visually-impaired user <br>When I attempt to run a command or compile a program <br>Then I am aware of whether it was successful or encountered an error based on the respective sound effects | Y | |
 | 10 | Given I am severely visually impaired and wish to work with the HEAT application <br>When I use the voice control extension <br>Then I am able to control all aspects of HEAT as intended | N | |
 
-<details><summary><b>USER CASE DIAGRAM</b></summary>
-![HEAT_user_case](uploads/2bea741c67418d3bf300a8089d0b1b4f/HEAT_user_case.jpg)</details><br>
-
 
 **PRODUCT BACKLOG**
 
