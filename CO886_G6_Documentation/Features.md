@@ -37,24 +37,28 @@ There is a method inside the ConsoleWndow.java class which calls the Haskell Int
 To create the playSound() method 2 javax classes were utilised. These were javax.sound.sampled.AudioSystem and javax.sound.sampled.Clip. More specifically AudioSystem.getAudioInputStream() was used to retrieve a handle to the audio system, and Clip.open() and Clip.start() were used respectively to open and play a sound clip.
 
 To retrieve the file path of the audio files independently of the computer that is being used, it was necessary to use the ClassLoader class which is part of the java.lang package. The String parameter that was passed to the playSound() method is for the name of the file to be found.
-The audio files were downloaded from freesound.org
+The audio files were downloaded from freesound.org, and placed into a newly created folder called 'audio'.
 For future the improvements the playSound() method could be used to signify other notifications such as when a user hovers over a particular area.
 </details>
 
 
 <details><summary><b>Caret Cursor Visibility</b></summary><br>
-To enhance the visiblility of the caret cursor it was necessary to write a new caret class which extends from the defaultCaret class, within the ConsoleWindow.java class. The code written is based on some code from there http://www.java2s.com/Code/Java/Swing-JFC/Acustomcaretclass.htm
+To enhance the visiblility of the caret cursor it was necessary to write a new caret class which extends from the defaultCaret class, within the ConsoleWindow.java class. The code written is based on some code from  http://www.java2s.com/Code/Java/Swing-JFC/Acustomcaretclass.htm
 
 The code was adapted to create a block using g.fillRect() method within the Graphics class, which is part of the java.awt package. The blink rate  and colour was also set using the setBlinkRate() of the current instance of the caret. The colour was also changed to white using Graphics.setColour().
+
+The biggest challenge was finding a way to keep consistency when entering text and pressing enter, since an example code that was used was causing several issues when used in Heat, such as the cursor being split into 2 halves horizontally and not moving when text was entered. Further research and trial and error eventually resolved this.
 </details>
 
 
 <details><summary><b>Mouse Cursor Visibility</b></summary><br>
 There are several classes that needed to be changed to implement the changing of the mouse cursor. These are EditorWindow.java WindowManager.java and ConsoleWindow.java.
 In order to change the mouse cursor it was necessary to write a new mouse method that loads in the image to be used for the mouse cursor, and calls several methods to set the cursor to the new one.
-The Images were created using logomakr.com website and then editing with Paint3d. The colours were also changed to aid visibility. 
+The Images were created using logomakr.com website and then edited with Paint3d. The colours were also changed to aid visibility. The images were placed inside the 'icons' folder to maintain organisation and structure. 
 
-Each window area has a different mouse cursor and so it was necessary to add the create cursor method into all relevant classes. It was not feasible to create one method and then call that from each class, since each window area had different ways of calling the system mouse methods. 
+Each window area has a different mouse cursor and so it was necessary to add the create cursor method into all relevant classes. It was not feasible to create one method and then call that from each class, since each window area had different ways of calling the system mouse methods.
+
+The biggest challenge was finding the appropriate methods to call in each window class, since they are all implemented in different ways. Finding an appropriate place to call the setCursor method was resolved through trial and error.  
 
 For improvement we would have allowed custom resizing of the cursors and also the ability to change the type of cursors.
 </details>
