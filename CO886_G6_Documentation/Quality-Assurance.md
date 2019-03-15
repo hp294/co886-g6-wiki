@@ -213,5 +213,7 @@ Test #3 failed due to the user noticing that the "Status" icon in the far right 
 ![david_dev_test_for_performance](uploads/956ca978bf0fa009994c8e52184de496/david_dev_test_for_performance.jpg)
 ![Laura_performance_feedback](uploads/37a02b829b4442f7666f71bb5e01d3e8/image.png)
 ![Tomas_performance_feedback](uploads/0c7fbbbeb5eafe71eaddc87b45ed17a5/Tomas_performance_feedback.jpg)
+![mai_dev_test](uploads/f77779d0fef70032950adca1a6407366/mai_dev_test.jpg)
+![mai_dev_test_2](uploads/c64ef73e57aa576d866ada469bb80f5f/mai_dev_test_2.jpg)
 </details>
 </details> 
