@@ -170,7 +170,13 @@ The performance testing verifies all components of the accessibility function in
 <details><summary><b>Test Evaluation</b></summary><br>
 
 <details><summary><b>Unit Testing</b></summary><br>
+
+**Tester: David**<br>
 ![david_unit_test](uploads/30a349449985f522cfdb6de0c77a1850/david_unit_test.jpg)
+
+**Tester: Wes**<br>
+![sound_effects_unit_testing](uploads/75ec71d4af7e82c9a361db6e65babe98/sound_effects_unit_testing.jpg)
+![cursor_unit_testing](uploads/8c3e98890b6684836b4c61801232ca4f/cursor_unit_testing.jpg)
 </details>
 
 <details><summary><b>Validation Testing</b></summary><br>
