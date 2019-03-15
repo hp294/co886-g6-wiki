@@ -61,7 +61,7 @@ This section presents recommended approaches to the testing of the accessibility
 
 **3.1 Unit Testing**
 
-Due to the collaborative nature of the project, with different people working on separate accessibility functions, the components listed in 1.2 should initially be tested as individual units before a full system test.
+Due to the collaborative nature of the project, with different people working on separate accessibility functions, the components listed in 1.2 should initially be tested as individual units before a full system test, the testing will be white box and any defects will be recorded before attempts made to fix them.
 
 **3.1.1 Colour and contrast testing**
 
@@ -133,7 +133,7 @@ Tests:<br>
 
 **3.2 Validation Testing**
 
-Due to the accessibility extension being highly dependent on user acceptance, extensive testing must be done with the end user in mind. 
+Due to the accessibility extension being highly dependent on user acceptance, extensive testing must be done with the end user in mind. This stage is a combination of final development testing and user testing and will act as a "hand-over" to the user within controlled conditions.
 
 Test Objectives:<br>
 
@@ -151,7 +151,7 @@ The acceptance criteria has passed all tests for both developer and user.
 
 **3.3 Performance Testing**
 
-The performance testing verifies all components of the accessibility function in combination. The test is less constrictive than the unit testing and validation testing phases. The testing should be done by a variety of users and feedback should be recorded.
+The performance testing verifies all components of the accessibility function in combination. This is a black box test and is less constrictive than the unit testing and validation testing phases. The testing should be done by a variety of users and feedback should be recorded. Feedback will be evaluated and any modifications will be prioritised dependent on feasibility and time constraints. All modifications must undergo the same testing journey as the other extension components. 
 
 **References**<br>
 [1]https://sceweb.uhcl.edu/helm/RUP_course_example/courseregistrationproject/artifacts/test/plans/test_plan_arch.htm
