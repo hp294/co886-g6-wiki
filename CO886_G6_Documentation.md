@@ -48,3 +48,5 @@
 8. [Minutes of the Meetings](./Minutes-of-the-Meetings)
 
 9. [Final version](./CO886_G6_Documentation/Final-Version)
+   * [Report](./CO886_G6_Documentation/Final-Version)
+   * [Working version of the Product](./CO886_G6_Documentation/Final-Version)
