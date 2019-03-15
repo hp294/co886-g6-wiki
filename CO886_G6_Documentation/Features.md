@@ -32,14 +32,27 @@ Some areas, such as the line number bar in the editor window, required changes t
 
 <details><summary><b>Sound Effect</b></summary><br>
 
+To implement the requirements of having sound effects played to signify success or failure of a program or command entered into the Haskell Interpreter involved using the ConsoleWindow.java class and writing a new method called playSound() to play each sound based on certain events.
+There is a method inside the ConsoleWndow.java class which calls the Haskell Interpreter to retrieve error information. This method contains a variable called ‘error’ that is incremented every time an error is returned. This was used to determine which sound effect should be triggered by calling the playSound() method with the sound effect name as a parameter of type String. If the error is zero then success sound is triggered, otherwise the failure sound is triggered.
+To create the playSound() method 2 javax classes were utilised. These were javax.sound.sampled.AudioSystem and javax.sound.sampled.Clip. More specifically AudioSystem.getAudioInputStream() was used to retrieve a handle to the audio system, and Clip.open() and Clip.start() were used respectively to open and play a sound clip.
+
+To retrieve the file path of the audio files independently of the computer that is being used, it was necessary to use the ClassLoader class which is part of the java.lang package. The String parameter that was passed to the playSound() method is for the name of the file to be found.
+The audio files were downloaded from freesound.org
+For future the improvements the playSound() method could be used to signify other notifications such as when a user hovers over a particular area.
 
 </details>
 
 
-<details><summary><b>Cursor Visibility</b></summary><br>
+<details><summary><b>Caret Cursor Visibility</b></summary><br>
 
 
 </details><br>
+
+<details><summary><b>Mouse Cursor Visibility</b></summary><br>
+
+
+</details><br>
+
 
 
 **TESTING**  
