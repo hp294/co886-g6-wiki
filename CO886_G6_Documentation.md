@@ -30,7 +30,7 @@
    * [Logo Maker](./CO886_G6_Documentation/Tools)
    * [High Contrast Chrome Extension](./CO886_G6_Documentation/Tools)
    * [Object Aid UML Explorer](./CO886_G6_Documentation/Tools)
-   * [Colour Blind Simulations](./CO886_G6_Documentation/Tools)
+   * [Microsoft Windows Colour Filter](./CO886_G6_Documentation/Tools)
    
 7. [Quality Assurance](./CO886_G6_Documentation/Quality-Assurance)
    * [Test Plan](./CO886_G6_Documentation/Quality-Assurance)
