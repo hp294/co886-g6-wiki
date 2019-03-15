@@ -7,7 +7,7 @@
    * [Acceptance Criteria](./CO886_G6_Documentation/User-Stories)  
 
 4. [Features](./CO886_G6_Documentation/Features)
-   * [Use cases](./CO886_G6_Documentation/Features) 
+   * [Use Cases](./CO886_G6_Documentation/Features) 
    * [Class and Activity Diagrams](./CO886_G6_Documentation/Features)
    * [Implementation](./CO886_G6_Documentation/Features)
    * [Testing](./CO886_G6_Documentation/Features)
@@ -18,7 +18,7 @@
    * [Artifacts](./CO886_G6_Documentation/Development-Process-and-Plans)  
    * [Allocation of Tasks](./CO886_G6_Documentation/Development-Process-and-Plans)  
    * [Issue Tracking & Issue Triage](./CO886_G6_Documentation/Development-Process-and-Plans)  
-   * [Version control](./CO886_G6_Documentation/Development-Process-and-Plans)  
+   * [Version Control](./CO886_G6_Documentation/Development-Process-and-Plans)  
    * [Test Plan](./CO886_G6_Documentation/Development-Process-and-Plans)  
    * [Chart](./CO886_G6_Documentation/Development-Process-and-Plans)  
 
