@@ -171,18 +171,19 @@ The performance testing verifies all components of the accessibility function in
 <details><summary><b>Unit Testing</b></summary><br>
 ![david_unit_test](uploads/30a349449985f522cfdb6de0c77a1850/david_unit_test.jpg)
 </details>
-<details><summary><b>Validation Testing</b></summary><br>
-**User Acceptance Criteria Test**
-**User: Tomas**
-| **User Story ID** | **Acceptance Criteria** | **Pass/Fail** |
-| ------ | ------ | ------ |
-| 3 | Given I want to view the application as a visually impaired user <br>When I use the accessibility extension <br>Then the text and icons are clearly readable in all areas of the application | Fail |
-| 4 | Given I find it difficult to locate the cursor as a visually impaired user <br>When I use the accessibility extension <br>Then I am able to locate the cursor with no difficulties no matter what document is displayed | Pass |
-| 5 | Given I am unable to see certain colours as a colour-blind user <br>When I use the accessibility extension <br>Then problem colours (red) are removed and colour contrast is heightened. | Pass |
-| 6 | Given I am used to working with the Microsoft Windows operating system <br>When using the HEAT application <br>Then I am easily able to use the functions due to my experience with Windows | Pass |
-| 9 | Given I am working in the HEAT application as a visually-impaired user <br>When I attempt to run a command or compile a program <br>Then I am aware of whether it was successful or encountered an error based on the respective sound effects | Pass |
 
-Test #3 failed due to the user noticing that the "Status" icon in the far right of the application was still at the original font size and therefore inconsistent with the rest of the application. This defect was fixed so that the status icon is now consistent with the font size modifications made throughout the rest of the application.
+<details><summary><b>Validation Testing</b></summary><br>
+**Acceptance Criteria Test**<br>
+**User: Tomas**<br>
+
+| **User Story ID**| **Acceptance Criteria** | **Pass/Fail** |
+| ------ | ------ | ------ |
+| 3 | Given I want to view the application as a visually impaired user<br> When I use the accessibility extension<br> Then the text and icons are clearly readable in all areas of the application | Fail |
+| 4 | Given I find it difficult to locate the cursor as a visually impaired user<br> When I use the accessibility extension<br> Then I am able to locate the cursor with no difficulties no matter what document is displayed | Pass |
+| 5 | Given I am unable to see certain colours as a colour-blind user<br> When I use the accessibility extension<br> Then problem colours (red) are removed and colour contrast is heightened | Pass |
+| 6 | Given I am used to working with the Microsoft Windows operating system<br> When using the HEAT application<br> Then I am easily able to use the functions due to my past experience with the Windows OS | Pass |
+| 9 | Given I am working in the application as a visually-impaired user<br> When I attempt to run a command or compile a program<br> Then I am aware of whether it was successful or encountered an error based on the respective sound effects | Pass | 
+
 
 </details>
 <details><summary><b>Performance Testing</b></summary><br>
