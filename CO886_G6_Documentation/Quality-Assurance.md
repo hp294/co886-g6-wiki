@@ -161,8 +161,7 @@ The performance testing verifies all components of the accessibility function in
 
 
 
-
-<details><summary><b>Definition</b></summary><br>   
+  
 
 
 </details> 
