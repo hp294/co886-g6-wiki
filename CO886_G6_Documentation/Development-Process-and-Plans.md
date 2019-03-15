@@ -12,5 +12,5 @@
 
 * [<b>Test Plan](./Quality-Assurance) & [<b>Feedback (Test Evaluation)](./Quality-Assurance)
    
-* <b>Charts</b>: We wanted to utilise [Milestone Burndown](https://git.cs.kent.ac.uk/co886/g6/milestones/3) feature on GitLab but it is not accurate due to an existing [GitLab bug](https://gitlab.com/gitlab-org/gitlab-ce/issues/57198). We used Excel instead. *(Please reload or click on the image if it does not load)*![Burn_Down_Chart](uploads/7c0ccd9ed1ed3ac2df91ca9bfb66a2d2/Burn_Down_Chart.PNG)   
+* <b>Chart</b>: We wanted to utilise [Milestone Burndown](https://git.cs.kent.ac.uk/co886/g6/milestones/3) feature on GitLab but it is not accurate due to an existing [GitLab bug](https://gitlab.com/gitlab-org/gitlab-ce/issues/57198). We used Excel instead. *(Please reload or click on the image if it does not load)*![Burn_Down_Chart](uploads/7c0ccd9ed1ed3ac2df91ca9bfb66a2d2/Burn_Down_Chart.PNG)   
 We did not close many tasks during the first 2 days as the team was analysing the code and learning how to use GitLab for documenting. This also explained the Open Date difference between the excel chart and GitLab's Issue List as we did not get to log most of the issues we have been working on until Wednesday (13/03).
