@@ -74,5 +74,5 @@ To improve compatibility with screen readers the main menu items were given name
 </details><br>
 
 **TESTING**  
-Test plan: [Test Plan](./Quality-Assurance)   
+[Test Plan](./Quality-Assurance)   
 Test performed, Frequency and Outcomes: [Test Evaluation](./Quality-Assurance)  
