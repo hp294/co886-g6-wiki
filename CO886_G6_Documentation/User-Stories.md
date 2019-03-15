@@ -19,7 +19,7 @@
 *Estimate*: 1-easy, 5-difficult  
 *Priority*: 1-must, 5-could
 
-| **ID** | **User Stories** | **Estimate** | **Priority** |
+| **ID** | **User Stories** | **Estimate (Dev Effort)** | **Priority (Business Value)** |
 | ------ | ------ | ------ | ------ |
 | 1 | Story: I want the device to read out words from the screen to me. <br>Details: Exploit Window Narrator by incorporating compatibility in the software. <br>Tests: Provide a number of scenarios for a user to use the screen reader on different parts of the window (menu, icon navigator, content,...). | 4 | 4 |
 | 2 | Story: I want efficient keyboard shortcuts that will replace using mouse. <br>Details: Provide keyboard shortcuts for all menu and icon functions. <br>Tests: Provide a number of scenarios for a user to use a combination of shortcuts. | 2 | 5 |
