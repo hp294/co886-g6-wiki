@@ -177,6 +177,9 @@ Some pictures may not load correctly. Please refresh or click on the unloaded im
 **Tester: Wes**<br>
 ![sound_effects_unit_testing](uploads/75ec71d4af7e82c9a361db6e65babe98/sound_effects_unit_testing.jpg)
 ![cursor_unit_testing](uploads/8c3e98890b6684836b4c61801232ca4f/cursor_unit_testing.jpg)
+
+**Tester: Alan**<br>
+![color_unit_2](uploads/a04426fde0f2051a711d5d58cf5b0166/color_unit_2.jpg)
 </details>
 
 <details><summary><b>Validation Testing</b></summary><br>
