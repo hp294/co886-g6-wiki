@@ -28,4 +28,4 @@
 [4] Collins, K. and Taillon, P. (2012). Visualized sound effect icons for improved multimedia accessibility: A pilot study. Entertainment Computing, 3(1), pp.11-17.  
 [5] https://icons8.com/articles/ui-sounds/  
 [6] http://www.java2s.com/Code/Java/Swing-JFC/Acustomcaretclass.htm
-
+[7] http://www.afb.org/info/accessibility/creating--accessible-computer-applications/25
