@@ -30,7 +30,7 @@ There are three main windows in the UI, the editor, console, and tree views, alo
 Some areas, such as the line number bar in the editor window, required changes to be made elsewhere in the program, including the text area defaults file and the text area painter file. The text and syntax highlighting colour changes also required changes in the syntax utilities file. During user testing further colour changes to the help screen and highlight bar were suggested, these changes were subsequently implemented. During this process the team used paired programming methods to achieve higher code quality and to allow the each member to understand the changes being made by others.
 </details>
 
-<details><summary><b>Sound Effect</b></summary><br>
+<details><summary><b>Sound Effects</b></summary><br>
 
 To implement the requirements of having sound effects played to signify success or failure of a program or command entered into the Haskell Interpreter involved using the ConsoleWindow.java class and writing a new method called playSound() to play each sound based on certain events.
 There is a method inside the ConsoleWndow.java class which calls the Haskell Interpreter to retrieve error information. This method contains a variable called ‘error’ that is incremented every time an error is returned. This was used to determine which sound effect should be triggered by calling the playSound() method with the sound effect name as a parameter of type String. If the error is zero then success sound is triggered, otherwise the failure sound is triggered.
@@ -44,6 +44,9 @@ For future the improvements the playSound() method could be used to signify othe
 
 
 <details><summary><b>Caret Cursor Visibility</b></summary><br>
+To enhance the visiblility of the caret cursor it was necessary to write a new caret class which extends from the defaultCaret class, within the ConsoleWindow.java class. The code written is based on some code from there http://www.java2s.com/Code/Java/Swing-JFC/Acustomcaretclass.htm
+
+The code was adapted to create a block using g.fillRect() method within the Graphics class, which is part of the java.awt package. The blink rate  and colour was also set using the setBlinkRate() of the current instance of the caret. The colour was also changed to white using Graphics.setColour().
 
 
 </details>
