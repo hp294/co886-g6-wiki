@@ -52,6 +52,13 @@ The code was adapted to create a block using g.fillRect() method within the Grap
 </details>
 
 <details><summary><b>Mouse Cursor Visibility</b></summary><br>
+There are several classes that needed to be changed to implement the changing of the mouse cursor. These are EditorWindow.java WindowManager.java and ConsoleWindow.java.
+In order to change the mouse cursor it was necessary to write a new mouse method that loads in the image to be used for the mouse cursor, and calls several methods to set the cursor to the new one.
+The Images were created using logomakr.com website and then editing with Paint3d. The colours were also changed to aid visibility. 
+
+Each window area has a different mouse cursor and so it was necessary to add the create cursor method into all relevant classes. It was not feasible to create one method and then call that from each class, since each window area had different ways of calling the system mouse methods. 
+
+For improvement we would have allowed custom resizing of the cursors and also the ability to change the type of cursors.
 
 
 </details>
