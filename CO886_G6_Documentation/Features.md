@@ -46,12 +46,12 @@ For future the improvements the playSound() method could be used to signify othe
 <details><summary><b>Caret Cursor Visibility</b></summary><br>
 
 
-</details><br>
+</details>
 
 <details><summary><b>Mouse Cursor Visibility</b></summary><br>
 
 
-</details><br>
+</details>
 
 <details><summary><b>Additional Features</b></summary><br>
 In addition to the above features, some additional changes were made to improve the UI for visually impaired users. <br>
