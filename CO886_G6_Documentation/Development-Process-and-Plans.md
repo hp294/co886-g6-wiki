@@ -10,7 +10,7 @@
 
 2. Plans
    * Methodology: [Scrum Agile](./Definition/Scrum-Agile-Process), [User stories](./User-Stories)    
-   * Charts: We wanted to utilise [Milestone Burndown](https://git.cs.kent.ac.uk/co886/g6/milestones/3) feature on GitLab but it is not accurate due to an existing [GitLab bug](https://gitlab.com/gitlab-org/gitlab-ce/issues/57198). We used Excel instead.!![Burn_Down_Chart](uploads/7c0ccd9ed1ed3ac2df91ca9bfb66a2d2/Burn_Down_Chart.PNG) 
+   * Charts: We wanted to utilise [Milestone Burndown](https://git.cs.kent.ac.uk/co886/g6/milestones/3) feature on GitLab but it is not accurate due to an existing [GitLab bug](https://gitlab.com/gitlab-org/gitlab-ce/issues/57198). We used Excel instead.![Burn_Down_Chart](uploads/7c0ccd9ed1ed3ac2df91ca9bfb66a2d2/Burn_Down_Chart.PNG) 
 
 <details><summary><b>Process</b></summary>   
 ![image](uploads/f8d34373384eb3f0b40d07697daf05f1/image.png)<br>   
