@@ -39,7 +39,6 @@ To create the playSound() method 2 javax classes were utilised. These were javax
 To retrieve the file path of the audio files independently of the computer that is being used, it was necessary to use the ClassLoader class which is part of the java.lang package. The String parameter that was passed to the playSound() method is for the name of the file to be found.
 The audio files were downloaded from freesound.org
 For future the improvements the playSound() method could be used to signify other notifications such as when a user hovers over a particular area.
-
 </details>
 
 
@@ -47,9 +46,8 @@ For future the improvements the playSound() method could be used to signify othe
 To enhance the visiblility of the caret cursor it was necessary to write a new caret class which extends from the defaultCaret class, within the ConsoleWindow.java class. The code written is based on some code from there http://www.java2s.com/Code/Java/Swing-JFC/Acustomcaretclass.htm
 
 The code was adapted to create a block using g.fillRect() method within the Graphics class, which is part of the java.awt package. The blink rate  and colour was also set using the setBlinkRate() of the current instance of the caret. The colour was also changed to white using Graphics.setColour().
-
-
 </details>
+
 
 <details><summary><b>Mouse Cursor Visibility</b></summary><br>
 There are several classes that needed to be changed to implement the changing of the mouse cursor. These are EditorWindow.java WindowManager.java and ConsoleWindow.java.
@@ -59,9 +57,8 @@ The Images were created using logomakr.com website and then editing with Paint3d
 Each window area has a different mouse cursor and so it was necessary to add the create cursor method into all relevant classes. It was not feasible to create one method and then call that from each class, since each window area had different ways of calling the system mouse methods. 
 
 For improvement we would have allowed custom resizing of the cursors and also the ability to change the type of cursors.
-
-
 </details>
+
 
 <details><summary><b>Additional Features</b></summary><br>
 In addition to the above features, some additional changes were made to improve the UI for visually impaired users. 
@@ -69,8 +66,6 @@ In addition to the above features, some additional changes were made to improve 
 The icon size was changed in the resources class of the utils package. A line of code was added to the getIcon method which increases the size of the icons before they are returned.
 
 To improve compatibility with screen readers the main menu items were given name attributes which can be accessed by screen reading software. In addition to this the ‘Program’ menu name was changed to the more conventional ‘File’ to assure consistency for users who rely on screen reading technology for navigation.
-
-
 </details><br>
 
 **TESTING**  
