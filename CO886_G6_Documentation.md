@@ -1,6 +1,10 @@
 1. [Introduction](./CO886_G6_Documentation/Introduction)
 
 2. [Background Research](./CO886_G6_Documentation/Background-Research)  
+   * [Colour & Contrast](./CO886_G6_Documentation/Background-Research)  
+   * [Cursor Visibility](./CO886_G6_Documentation/Background-Research)  
+   * [Font Visibility](./CO886_G6_Documentation/Background-Research)  
+   * [Sound Effect](./CO886_G6_Documentation/Background-Research)  
 
 3. [User Stories](./CO886_G6_Documentation/User-Stories)  
    * [User Story](./CO886_G6_Documentation/User-Stories) 
