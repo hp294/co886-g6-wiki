@@ -4,7 +4,7 @@
 
 * <b>Artifacts</b>: [Product Log](https://git.cs.kent.ac.uk/co886/g6/issues), [Sprint Log](https://git.cs.kent.ac.uk/co886/g6/milestones/3), [Final Product](./Final-version), [Artifacts Definition](./Definition/Scrum-Agile-Artifacts)
 
-* <b>Allocation of tasks</b>: [Commits to Master Branch](https://git.cs.kent.ac.uk/co886/g6/graphs/master) and [All Tasks](https://git.cs.kent.ac.uk/co886/g6/issues?scope=all&utf8=%E2%9C%93&state=all)
+* <b>Allocation of Tasks</b>: [Commits to Master Branch](https://git.cs.kent.ac.uk/co886/g6/graphs/master) and [All Tasks](https://git.cs.kent.ac.uk/co886/g6/issues?scope=all&utf8=%E2%9C%93&state=all)
 
 * <b>Issue Tracking</b> & <b>Issue Triage</b>: Each issue is added to the [Issue List](https://git.cs.kent.ac.uk/co886/g6/issues) where we set weight, priority and relevant label to the nature of the issue. Weight, Difficulty labels as well as Label Priority are used to prioritise the list.   
 
