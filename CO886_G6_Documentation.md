@@ -1,4 +1,4 @@
-1. [OUTSTANDING - Introduction](./CO886_G6_Documentation/Introduction)
+1. [Introduction](./CO886_G6_Documentation/Introduction)
 
 2. [Background Research](./CO886_G6_Documentation/Background-Research)  
 
@@ -6,28 +6,21 @@
    * [User Story](./CO886_G6_Documentation/User-Stories) 
    * [Acceptance Criteria](./CO886_G6_Documentation/User-Stories)  
 
-4. [ON GOING - Features](./CO886_G6_Documentation/Features)
+4. [Features](./CO886_G6_Documentation/Features)
    * [Use cases](./CO886_G6_Documentation/Features) 
-   * [Class and Process Diagrams](./CO886_G6_Documentation/Features)
+   * [Class and Activity Diagrams](./CO886_G6_Documentation/Features)
    * [Implementation](./CO886_G6_Documentation/Features)
    * [Testing](./CO886_G6_Documentation/Features)
 
-5. [ON GOING - Development Process and Plans](./CO886_G6_Documentation/Development-Process-and-Plans)  
-   * [Development Process](./CO886_G6_Documentation/Development-Process-and-Plans)
-     * [Product Log](https://git.cs.kent.ac.uk/co886/g6/issues) 
-     * [Issue Tracking](https://git.cs.kent.ac.uk/co886/g6/issues)
-     * Issue Triage
-     * [Version control](https://git.cs.kent.ac.uk/co886/g6/network/master)
-     * [Test Planning](https://git.cs.kent.ac.uk/co886/g6/wikis/CO886_G6_Documentation/Quality-Assurance)
-     * Feedback
-     * [Code Inspection](https://git.cs.kent.ac.uk/co886/g6/wikis/CO886_G6_Documentation/Quality-Assurance)
-     * [Allocation of tasks](https://git.cs.kent.ac.uk/co886/g6/graphs/master) 
-     * Daily Scrum Meeting Minute
-     * Artefacts
-
-   * [Plan](./CO886_G6_Documentation/Development-Process-and-Plans)
-     * Methodology: [Scrum Agile](./Development-Process-and-Plans/Scrum-Agile), [User stories](./User-Stories),  & [Sprint Log](https://git.cs.kent.ac.uk/co886/g6/milestones/3)  
-     * Charts: [Sprint Burndown](https://git.cs.kent.ac.uk/co886/g6/milestones/3), [Pipeline](https://git.cs.kent.ac.uk/co886/g6/pipelines/charts) 
+5. [Development Process and Plans](./CO886_G6_Documentation/Development-Process-and-Plans)  
+   * [Methodology](./CO886_G6_Documentation/Development-Process-and-Plans)  
+   * [Daily Scrum Meeting](./CO886_G6_Documentation/Development-Process-and-Plans)  
+   * [Artifacts](./CO886_G6_Documentation/Development-Process-and-Plans)  
+   * [Allocation of Tasks](./CO886_G6_Documentation/Development-Process-and-Plans)  
+   * [Issue Tracking & Issue Triage](./CO886_G6_Documentation/Development-Process-and-Plans)  
+   * [Version control](./CO886_G6_Documentation/Development-Process-and-Plans)  
+   * [Test Plan](./CO886_G6_Documentation/Development-Process-and-Plans)  
+   * [Chart](./CO886_G6_Documentation/Development-Process-and-Plans)  
 
 6. [Tools](./CO886_G6_Documentation/Tools)
    * [GitLab](./CO886_G6_Documentation/Tools)
@@ -50,6 +43,6 @@
    * [Definition](./CO886_G6_Documentation/Quality-Assurance)  
    * [Evaluation](./CO886_G6_Documentation/Quality-Assurance)   
 
-8. [OUTSTANDING - Minutes of the Meetings](./Minutes-of-the-Meetings)
+8. [Minutes of the Meetings](./Minutes-of-the-Meetings)
 
-9. [OUTSTANDING - Final version](./CO886_G6_Documentation/Final Version)
+9. [Final version](./CO886_G6_Documentation/Final-Version)
