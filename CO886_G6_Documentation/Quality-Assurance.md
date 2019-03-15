@@ -166,7 +166,12 @@ The performance testing verifies all components of the accessibility function in
 
 </details> 
 
-<details><summary><b>Evaluation</b></summary><br>
+<details><summary><b>Test Evaluation</b></summary><br>
 
-
+<details><summary><b>Unit Testing</b></summary><br>
+</details>
+<details><summary><b>Validation Testing</b></summary><br>
+</details>
+<details><summary><b>Performance Testing</b></summary><br>
+</details>
 </details> 
