@@ -32,16 +32,12 @@
    * [Object Aid UML Explorer](./CO886_G6_Documentation/Tools)
    * [Colour Blind Simulations](./CO886_G6_Documentation/Tools)
    
-7. [ON GOING - Quality Assurance](./CO886_G6_Documentation/Quality-Assurance)
-   * [Planning](./CO886_G6_Documentation/Quality-Assurance)
-   * [Test:](./CO886_G6_Documentation/Quality-Assurance)
+7. [Quality Assurance](./CO886_G6_Documentation/Quality-Assurance)
+   * [Test Plan](./CO886_G6_Documentation/Quality-Assurance)
+   * [Test Evaluation](./CO886_G6_Documentation/Quality-Assurance)
       * [Unit Testing](./CO886_G6_Documentation/Quality-Assurance)   
-      * [Validation (V&V)](./CO886_G6_Documentation/Quality-Assurance)  
-      * [User Testing](./CO886_G6_Documentation/Quality-Assurance)
-      * [Functional Testing](./CO886_G6_Documentation/Quality-Assurance)
-   * [Acceptance Criteria](./CO886_G6_Documentation/User-Stories)  
-   * [Definition](./CO886_G6_Documentation/Quality-Assurance)  
-   * [Evaluation](./CO886_G6_Documentation/Quality-Assurance)   
+      * [Validation Testing](./CO886_G6_Documentation/Quality-Assurance)  
+      * [Performance Testing](./CO886_G6_Documentation/Quality-Assurance)  
 
 8. [Minutes of the Meetings](./Minutes-of-the-Meetings)
 
