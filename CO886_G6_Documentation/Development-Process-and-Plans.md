@@ -2,7 +2,7 @@
    * [<b>Issue Tracking](https://git.cs.kent.ac.uk/co886/g6/issues) & [<b>Issue Triage](https://git.cs.kent.ac.uk/co886/g6/issues): Each issue is added to the Issue List where we set weight, priority and with relevant label to the nature of the issue. Weight, Difficulty labels as well as Label Priority are used to prioritise the list. 
    * [<b>Version control](https://git.cs.kent.ac.uk/co886/g6/network/master): The team follows [GitFlow](https://about.gitlab.com/2014/09/29/gitlab-flow/). Different version of codes are kept in individual branches. Each developer has their own [Branch](https://git.cs.kent.ac.uk/co886/g6/branches). A [Merge Request](https://git.cs.kent.ac.uk/co886/g6/commits/master) is created when a developer wants to add their changes to the master branch, which is reviewed before the merge happens. Lead developer is in charge of reviewing the merge requests. The [Changes History](https://git.cs.kent.ac.uk/co886/g6/network/master) can be viewed in a chart format.    
    * [<b>Test Planning](https://git.cs.kent.ac.uk/co886/g6/wikis/CO886_G6_Documentation/Quality-Assurance)
-   * Feedback: [Evaluation - Quality Assurance](./Quality-Assurance)
+   * <b>Feedback</b>: [Evaluation - Quality Assurance](./Quality-Assurance)
    * [<b>Code Inspection](https://git.cs.kent.ac.uk/co886/g6/wikis/CO886_G6_Documentation/Quality-Assurance)
    * [<b>Allocation of tasks](https://git.cs.kent.ac.uk/co886/g6/graphs/master) 
    * <b>Daily Scrum Meeting Minute
