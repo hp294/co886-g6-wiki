@@ -10,7 +10,7 @@
 <details><summary><b>Class Diagram</b></summary>
 ![HEAT_class_diagram](uploads/3097e9933fe380a5150d54e3325da0b7/HEAT_class_diagram.jpg)</details><br>  
 
-**IMPLEMENTATION** Describe what have been done/ would have donw/how it was done.   
+**IMPLEMENTATION** Describe what have been done/ would have done/how it was done.   
 
 <details><summary><b>Font Visibility</b></summary><br>
 
