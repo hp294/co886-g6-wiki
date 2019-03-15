@@ -54,9 +54,9 @@ For future the improvements the playSound() method could be used to signify othe
 </details>
 
 <details><summary><b>Additional Features</b></summary><br>
-In addition to the above features, some additional changes were made to improve the UI for visually impaired users. <br>
+In addition to the above features, some additional changes were made to improve the UI for visually impaired users. 
 
-The icon size was changed in the resources class of the utils package. A line of code was added to the getIcon method which increases the size of the icons before they are returned.<br>
+The icon size was changed in the resources class of the utils package. A line of code was added to the getIcon method which increases the size of the icons before they are returned.
 
 To improve compatibility with screen readers the main menu items were given name attributes which can be accessed by screen reading software. In addition to this the ‘Program’ menu name was changed to the more conventional ‘File’ to assure consistency for users who rely on screen reading technology for navigation.
 
