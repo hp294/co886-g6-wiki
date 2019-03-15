@@ -1,3 +1,5 @@
+Jar file location: [](https://git.cs.kent.ac.uk/co886/g6/blob/master/HEAT-G6_.jar)
+
 1. [Introduction](./CO886_G6_Documentation/Introduction)
 
 2. [Background Research](./CO886_G6_Documentation/Background-Research)  
