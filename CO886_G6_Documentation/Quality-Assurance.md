@@ -19,7 +19,8 @@ The system components to be tested are:<br>
 2. Sound effects denoting success and failure with regard to command execution and program compilation.<br>
 3. Icon size.<br>
 4. Font size and font type.<br>
-5. Cursor size and colour.<br>
+5. Caret cursor size and colour.<br>
+6. Mouse cursor type, size and colour.<br>
 
 The critical performance measures to test are:<br>
 
@@ -31,8 +32,10 @@ The critical performance measures to test are:<br>
 6. User response to modified icon size.<br>
 7. Functionality of increased font size and font type implementation.<br>
 8. User response to modified font size and type.<br>
-9. Functionality of increased cursor size and colour implementation.
-10. User response to modified cursor.
+9. Functionality of increased caret cursor size and colour implementation.<br>
+10. User response to modified caret cursor.<br>
+11. Functionality of increased mouse cursors type, size and colour.<br>
+12. User response to modified mouse cursors
 
 **2. Test Requirements**<br>
 
@@ -44,7 +47,8 @@ Verify colour and contrast modification.<br>
 Verify sound effect inclusion.<br>
 Verify icon size modification.<br>
 Verify font size and type modification.<br>
-Verify cursor size and colour.
+Verify caret cursor size and colour.<br>
+Verify mouse cursors type, size and colour.<br>
 
 **2.3 Validation Testing**
 
@@ -121,12 +125,20 @@ Tests:<br>
 Test objectives:<br> 
 
 Ensure that...<br>
-1. The cursor size has increased throughout the application.
-2. The cursor colour has changed to maintain high contrast with the application background.
+1. The mouse cursor size has increased throughout the application.
+2. The mouse cursor colour has changed to maintain high contrast with the application background.
  
 Tests:<br>
 1. Inspect cursor size in the original version of the application and the extended version. Check cursor is larger in the extended version.
 2. Move cursor through each area of the application (console window, tree window, editor window, toolbar) and check cursor maintains size and background contrast.
+
+Ensure that...<br>
+1. The caret cursor size / shape has been increased in the console window.
+2. The caret cursor colour has changed to maintain high contrast with the application background.
+ 
+Tests:<br>
+1. Inspect cursor size in the original version of the application and the extended version. Check cursor is larger in the extended version and more visible.
+2. Enter text and press enter to ensure consistent caret.
 
 **Completion Criteria**
 1. All planned tests have been executed.
