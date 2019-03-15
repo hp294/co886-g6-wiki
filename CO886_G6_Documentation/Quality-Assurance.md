@@ -174,5 +174,6 @@ The performance testing verifies all components of the accessibility function in
 <details><summary><b>Validation Testing</b></summary><br>
 </details>
 <details><summary><b>Performance Testing</b></summary><br>
+![david_dev_test_for_performance](uploads/956ca978bf0fa009994c8e52184de496/david_dev_test_for_performance.jpg)
 </details>
 </details> 
