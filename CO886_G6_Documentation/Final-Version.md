@@ -11,6 +11,6 @@ There were some notable difficulties encountered during the project. One particu
 
 The ability to control versions and revert on GitLab made the collaboration process much smoother and allowed for team members to work simultaneously on different features. The Eclipse IDE was also vital for the completion of the project. The Git staging feature was utilised heavily throughout the project, and other features such as, debugging, method suggestion, and the ability to run the program from the IDE proved to be very useful in modifying a reasonably large piece of software in a relatively short time.</details><br>
 
-[<b>Working Version] link
+[<b>Working Version](https://git.cs.kent.ac.uk/co886/g6/blob/master/HEAT-G6_.jar)
 
 [<b>Group 6 Report](uploads/75d6c1245f2eea093240da9b1e29a5f2/Group_6_-_report-v9.doc)   
